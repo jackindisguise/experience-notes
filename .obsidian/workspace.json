@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Students of Round/Characters/Merlin.md",
+                "file": "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             },
             "group": "aaa0e48c7478f491"
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Students of Round/Characters/Merlin.md",
+                "file": "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.5
   },
   "right": {
     "id": "a4fcf206dc3a1ffb",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experience Inc/Students of Round/Characters/Merlin.md",
+                "file": "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experience Inc/Students of Round/Characters/Merlin.md",
+                "file": "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,11 +145,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experience Inc/Students of Round/Characters/Merlin.md"
+                "file": "Experience Inc/Students of Round/Locations/Magic Airship Thing.md"
               }
             }
+          },
+          {
+            "id": "6824a0a2468ccd9e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -167,9 +176,9 @@
   },
   "active": "a3aeb3cd1c24f129",
   "lastOpenFiles": [
-    "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
     "Experience Inc/Students of Round/Characters/Merlin.md",
     "Experience Inc/Students of Round/Characters/Hero.md",
+    "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
     "Untitled.canvas",
     "READMEs/Untitled.md",
     "READMEs",

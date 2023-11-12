@@ -1,1 +1,3 @@
 Merlin is a cute girl who resurrects the [[Hero]] or something. She controls the big [[Magic Airship Thing]] that they fly around in. Etc...
+
+#tag #cake #pie
