@@ -11,12 +11,8 @@
             "id": "7ef84edee0478fbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             },
             "group": "aaa0e48c7478f491"
           }
@@ -30,12 +26,8 @@
             "id": "a3aeb3cd1c24f129",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             },
             "group": "aaa0e48c7478f491"
           }
@@ -89,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 271.5
   },
   "right": {
     "id": "a4fcf206dc3a1ffb",
@@ -105,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Experience Inc/Students of Round/Locations/Magic Airship Thing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,11 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3aeb3cd1c24f129",
+  "active": "e21428d8b367f646",
   "lastOpenFiles": [
+    "Experience Inc/Mon-yu",
+    "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
+    "Experience Inc/Ray Gigant",
+    "Experience Inc/Demon Gaze II",
+    "Experience Inc/Demon Gaze",
+    "Experience Inc/Stranger of Sword City Revisited",
+    "Experience Inc/Saviors of Sapphire Wings",
     "Experience Inc/Students of Round/Characters/Merlin.md",
     "Experience Inc/Students of Round/Characters/Hero.md",
-    "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
     "Untitled.canvas",
     "READMEs/Untitled.md",
     "READMEs",
