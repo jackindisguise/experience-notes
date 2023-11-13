@@ -1,5 +1,5 @@
 {
-  "alwaysUpdateLinks": true,
+  "alwaysUpdateLinks": false,
   "showLineNumber": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -7,5 +7,7 @@
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
-  }
+  },
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }

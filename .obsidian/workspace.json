@@ -6,13 +6,18 @@
       {
         "id": "ebdcb7bbb65aceab",
         "type": "tabs",
+        "dimension": 29.81770833333333,
         "children": [
           {
             "id": "7ef84edee0478fbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "aaa0e48c7478f491"
           }
@@ -21,15 +26,84 @@
       {
         "id": "51a56c03282d2d19",
         "type": "tabs",
+        "dimension": 27.79947916666667,
         "children": [
           {
             "id": "a3aeb3cd1c24f129",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "aaa0e48c7478f491"
+          }
+        ]
+      },
+      {
+        "id": "a56646f5ab4520e1",
+        "type": "tabs",
+        "dimension": 42.3828125,
+        "children": [
+          {
+            "id": "79cbe82673a22554",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#skill",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#terminology",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    },
+                    {
+                      "query": "tag:#profession",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.3,
+                  "nodeSizeMultiplier": 1.19739583333333,
+                  "lineSizeMultiplier": 1.60572916666667,
+                  "collapse-forces": false,
+                  "centerStrength": 0.489583333333333,
+                  "repelStrength": 14.375,
+                  "linkStrength": 0.875,
+                  "linkDistance": 500,
+                  "scale": 0.3628873693012179,
+                  "close": true
+                }
+              }
+            }
           }
         ]
       }
@@ -81,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 340.5
   },
   "right": {
     "id": "a4fcf206dc3a1ffb",
@@ -97,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +210,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-13.md"
+              }
             }
           },
           {
@@ -145,12 +223,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,23 +241,42 @@
   },
   "active": "e21428d8b367f646",
   "lastOpenFiles": [
-    "Experience Inc/Mon-yu",
-    "Experience Inc/Students of Round/Locations/Magic Airship Thing.md",
-    "Experience Inc/Ray Gigant",
-    "Experience Inc/Demon Gaze II",
-    "Experience Inc/Demon Gaze",
-    "Experience Inc/Stranger of Sword City Revisited",
-    "Experience Inc/Saviors of Sapphire Wings",
-    "Experience Inc/Students of Round/Characters/Merlin.md",
-    "Experience Inc/Students of Round/Characters/Hero.md",
-    "Untitled.canvas",
-    "READMEs/Untitled.md",
-    "READMEs",
-    "Experience Inc/Students of Round/Locations",
-    "Experience Inc/Students of Round/Characters",
-    "Experience Inc/Students of Round",
-    "Experience Inc..md",
-    "Experience Inc",
-    "2023-11-01.md"
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Back of Box.md",
+    "Experience Inc/Mon-yu/Playstyles.md",
+    "Experience Inc/Mon-yu/Hero Guild.md",
+    "Experience Inc/Mon-yu/Items/Hero Crest.md",
+    "Experience Inc/Mon-yu/Treasure",
+    "Experience Inc/Mon-yu/Items",
+    "Experience Inc/Mon-yu/Terminology/beastman.md",
+    "Experience Inc/Mon-yu/Treasure/Clanniebe.md",
+    "Experience Inc/Mon-yu/Groups/Therian.md",
+    "Experience Inc/Mon-yu/Groups",
+    "Experience Inc/Mon-yu/Terminology/therianthrope.md",
+    "Experience Inc/Mon-yu/Terminology/Hero Evaluation.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+    "Experience Inc/Mon-yu/Terminology",
+    "Experience Inc/Mon-yu/Locations",
+    "Experience Inc/Mon-yu/Characters",
+    "Experience Inc/Mon-yu/Characters/Mimijii.md",
+    "Experience Inc/Mon-yu/Terminology/Annihilation.md",
+    "Experience Inc/Mon-yu/Terminology/enemy emblems.md",
+    "Experience Inc/Mon-yu/Locations/Einheim.md",
+    "Experience Inc/Mon-yu/Characters/Freyr.md",
+    "Experience Inc/Mon-yu/Locations/Demiheim.md",
+    "Experience Inc/Mon-yu/Characters/Chuck.md",
+    "Experience Inc/Mon-yu/Characters/Eternia.md",
+    "Experience Inc/Mon-yu/annihilated.md",
+    "Experience Inc/Mon-yu/Locations/Yggdran.md",
+    "Experience Inc/Mon-yu/map functions.md",
+    "Experience Inc/Mon-yu/level growth caps.md",
+    "Experience Inc/Undernauts/Skills/Iai Slash.md",
+    "Experience Inc/Mon-yu/Daily Notes/Hero's Guild.md",
+    "Experience Inc/Mon-yu/Help",
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO",
+    "Experience Inc/Mon-yu/_DAILY",
+    "Experience Inc/Undernauts/Professions",
+    "Experience Inc/Undernauts/Untitled.canvas",
+    "Untitled.canvas"
   ]
 }
