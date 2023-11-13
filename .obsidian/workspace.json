@@ -223,7 +223,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -239,12 +240,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e21428d8b367f646",
+  "active": "7ef84edee0478fbf",
   "lastOpenFiles": [
-    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
     "Experience Inc/Mon-yu/_OUTSIDE_INFO/Back of Box.md",
-    "Experience Inc/Mon-yu/Playstyles.md",
     "Experience Inc/Mon-yu/Hero Guild.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
+    "Experience Inc/Mon-yu/Playstyles.md",
     "Experience Inc/Mon-yu/Items/Hero Crest.md",
     "Experience Inc/Mon-yu/Treasure",
     "Experience Inc/Mon-yu/Items",
@@ -254,7 +256,6 @@
     "Experience Inc/Mon-yu/Groups",
     "Experience Inc/Mon-yu/Terminology/therianthrope.md",
     "Experience Inc/Mon-yu/Terminology/Hero Evaluation.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
     "Experience Inc/Mon-yu/Terminology",
     "Experience Inc/Mon-yu/Locations",
     "Experience Inc/Mon-yu/Characters",
