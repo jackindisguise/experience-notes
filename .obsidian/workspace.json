@@ -6,7 +6,6 @@
       {
         "id": "ebdcb7bbb65aceab",
         "type": "tabs",
-        "dimension": 51.751412429378526,
         "children": [
           {
             "id": "7ef84edee0478fbf",
@@ -14,32 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+                "file": "Experience Inc/Mon-yu/People/Ukaba.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "aaa0e48c7478f491"
+            "group": "5239f8be44ad861c"
           }
         ]
       },
       {
-        "id": "51a56c03282d2d19",
+        "id": "3112dda122a22125",
         "type": "tabs",
-        "dimension": 48.248587570621474,
         "children": [
           {
-            "id": "a3aeb3cd1c24f129",
+            "id": "9ca56867497b399a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+                "file": "Experience Inc/Mon-yu/People/Ukaba.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "aaa0e48c7478f491"
+            "group": "5239f8be44ad861c"
+          }
+        ]
+      },
+      {
+        "id": "6ab9b3701d091b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8abc54e3e31eecb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           }
         ]
       }
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+                "file": "Experience Inc/Mon-yu/People/Ukaba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+                "file": "Experience Inc/Mon-yu/People/Ukaba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-13.md"
+                "file": "Experience Inc/Mon-yu/People/Ukaba.md"
               }
             }
           },
@@ -159,8 +173,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,13 +192,23 @@
   "active": "7ef84edee0478fbf",
   "lastOpenFiles": [
     "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+    "Experience Inc/Mon-yu/Terminology/enemy emblems.md",
+    "Experience Inc/Mon-yu/People/Mimijii.md",
+    "Experience Inc/Mon-yu/People/Freyr.md",
+    "Experience Inc/Mon-yu/People/Ukaba.md",
+    "Experience Inc/Mon-yu/Places/Demiheim.md",
+    "Experience Inc/Mon-yu/Places/Yggdran.md",
+    "Experience Inc/Mon-yu/Places/Einheim.md",
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
+    "Experience Inc/Undernauts/Wiki.md",
+    "Yomiten.md",
+    "Experience Inc/Undernauts/Blessing of Regeneration.md",
     "Experience Inc/Mon-yu/_OUTSIDE_INFO/Back of Box.md",
     "Experience Inc/Mon-yu/Hero Guild.md",
-    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
     "Experience Inc/Mon-yu/Playstyles.md",
-    "Experience Inc/Mon-yu/Items/Hero Crest.md",
+    "Experience Inc/Mon-yu/Things/Hero Crest.md",
     "Experience Inc/Mon-yu/Treasure",
-    "Experience Inc/Mon-yu/Items",
+    "Experience Inc/Mon-yu/Things",
     "Experience Inc/Mon-yu/Terminology/beastman.md",
     "Experience Inc/Mon-yu/Treasure/Clanniebe.md",
     "Experience Inc/Mon-yu/Groups/Therian.md",
@@ -193,22 +216,13 @@
     "Experience Inc/Mon-yu/Terminology/therianthrope.md",
     "Experience Inc/Mon-yu/Terminology/Hero Evaluation.md",
     "Experience Inc/Mon-yu/Terminology",
-    "Experience Inc/Mon-yu/Locations",
-    "Experience Inc/Mon-yu/Characters",
-    "Experience Inc/Mon-yu/Characters/Mimijii.md",
+    "Experience Inc/Mon-yu/Places",
+    "Experience Inc/Mon-yu/People",
     "Experience Inc/Mon-yu/Terminology/Annihilation.md",
-    "Experience Inc/Mon-yu/Terminology/enemy emblems.md",
-    "Experience Inc/Mon-yu/Locations/Einheim.md",
-    "Experience Inc/Mon-yu/Characters/Freyr.md",
-    "Experience Inc/Mon-yu/Locations/Demiheim.md",
-    "Experience Inc/Mon-yu/Characters/Chuck.md",
-    "Experience Inc/Mon-yu/Characters/Eternia.md",
+    "Experience Inc/Mon-yu/People/Chuck.md",
+    "Experience Inc/Mon-yu/People/Eternia.md",
     "Experience Inc/Mon-yu/annihilated.md",
-    "Experience Inc/Mon-yu/Locations/Yggdran.md",
     "Experience Inc/Mon-yu/map functions.md",
-    "Experience Inc/Mon-yu/level growth caps.md",
-    "Experience Inc/Undernauts/Skills/Iai Slash.md",
-    "Experience Inc/Mon-yu/Daily Notes/Hero's Guild.md",
     "Experience Inc/Mon-yu/Help",
     "Experience Inc/Mon-yu/_OUTSIDE_INFO",
     "Experience Inc/Mon-yu/_DAILY",

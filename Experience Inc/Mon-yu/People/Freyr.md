@@ -1,0 +1,1 @@
+A [[Therian]], ruler of [[Demiheim]], boss of the [[Goblins]] and [[Harpies]].
