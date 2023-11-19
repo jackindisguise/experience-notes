@@ -1,0 +1,1 @@
+Is this a person who is a [[Therianthrope]]?

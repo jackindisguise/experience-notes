@@ -4,7 +4,7 @@ In this land stood the [[Dragon King's Tower]] [[Yggdran]], housing hidden [[tre
 
 But one day, out of nowhere, the [[Seven Devil Kings]] stole all the hidden treasures.
 
-Using the treasures' power to rule over [[demons]], they transformed the tower into a [[terrible dungeon]].
+Using the treasures' power to rule over [[demons]], they transformed the tower into a [[Yggdran|terrible dungeon]].
 
 If they are left unchecked, the fairies' land will be destroyed.
 
