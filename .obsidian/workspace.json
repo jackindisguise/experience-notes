@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fea722b77b566a0f",
+  "active": "c8c6c5ae9134e381",
   "lastOpenFiles": [
     "Experience Inc/Mon-yu/People/Chuck.md",
     "Experience Inc/Mon-yu/Terminology/Hero Evaluation.md",
