@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
+                "file": "Experience Inc/Mon-yu/Terminology/Annihilation.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
+                "file": "Experience Inc/Mon-yu/Terminology/Annihilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
+                "file": "Experience Inc/Mon-yu/Terminology/Annihilation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-18.md"
+                "file": "Experience Inc/Mon-yu/Terminology/Annihilation.md"
               }
             }
           },
@@ -174,6 +174,11 @@
   },
   "active": "c8c6c5ae9134e381",
   "lastOpenFiles": [
+    "Devil Kings.md",
+    "Experience Inc/Mon-yu/Places/Yggdran.md",
+    "Experience Inc/Mon-yu/Places/Einheim.md",
+    "Experience Inc/Mon-yu/Places/Demiheim.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
     "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
     "Experience Inc/Mon-yu/People/Chuck.md",
     "Experience Inc/Mon-yu/People/Eternia.md",
@@ -185,16 +190,12 @@
     "Experience Inc/Mon-yu/People/Mimijii.md",
     "Experience Inc/Mon-yu/People/Freyr.md",
     "Experience Inc/Mon-yu/Groups/Therian.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
     "Experience Inc/Mon-yu/Playstyles.md",
     "Experience Inc/Mon-yu/level growth caps.md",
     "Experience Inc/Mon-yu/People/Ukaba.md",
     "Experience Inc/Mon-yu/Terminology/enemy emblems.md",
-    "Experience Inc/Mon-yu/Places/Demiheim.md",
-    "Experience Inc/Mon-yu/Places/Yggdran.md",
-    "Experience Inc/Mon-yu/Places/Einheim.md",
     "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
-    "Yomiten.md",
+    "Experience Inc/Undernauts/Yomiten.md",
     "Experience Inc/Undernauts/Blessing of Regeneration.md",
     "Experience Inc/Mon-yu/_OUTSIDE_INFO/Back of Box.md",
     "Experience Inc/Mon-yu/Things/Hero Crest.md",
@@ -202,7 +203,6 @@
     "Experience Inc/Mon-yu/Things",
     "Experience Inc/Mon-yu/Terminology/beastman.md",
     "Experience Inc/Mon-yu/Groups",
-    "Experience Inc/Mon-yu/Terminology/therianthrope.md",
     "Experience Inc/Mon-yu/Terminology",
     "Experience Inc/Mon-yu/Places",
     "Experience Inc/Mon-yu/People",
