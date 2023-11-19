@@ -1,0 +1,5 @@
+---
+aliases:
+  - Holy Knight
+  - Sieg
+---

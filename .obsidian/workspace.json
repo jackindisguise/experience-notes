@@ -6,7 +6,7 @@
       {
         "id": "6ab9b3701d091b33",
         "type": "tabs",
-        "dimension": 52.29508196721312,
+        "dimension": 39.75588491717524,
         "children": [
           {
             "id": "c8c6c5ae9134e381",
@@ -18,14 +18,35 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "690b59a1cff4b1da"
+          }
+        ]
+      },
+      {
+        "id": "d50632fa82ede6a2",
+        "type": "tabs",
+        "dimension": 35.30950305143853,
+        "children": [
+          {
+            "id": "fea722b77b566a0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-19.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "690b59a1cff4b1da"
           }
         ]
       },
       {
         "id": "fcc6058ef0969d2b",
         "type": "tabs",
-        "dimension": 47.704918032786885,
+        "dimension": 24.934612031386223,
         "children": [
           {
             "id": "d8abc54e3e31eecb",
@@ -172,34 +193,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6824a0a2468ccd9e",
+  "active": "fea722b77b566a0f",
   "lastOpenFiles": [
+    "Experience Inc/Mon-yu/People/Chuck.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-19.md",
+    "Experience Inc/Mon-yu/People/Holy Knight Sieg.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
+    "Experience Inc/Mon-yu/Things/Scarab Beetles.md",
+    "Experience Inc/Mon-yu/People/Devil Kings.md",
+    "Experience Inc/Mon-yu/People/Fenrir.md",
+    "Experience Inc/Mon-yu/Places/Beastheim.md",
+    "Experience Inc/Mon-yu/People/Freyr.md",
     "Experience Inc/Mon-yu/Terminology/Annihilation.md",
     "Experience Inc/Mon-yu/Terminology/beastman.md",
     "Experience Inc/Mon-yu/Terminology/enemy emblems.md",
     "Experience Inc/Mon-yu/Terminology/therianthrope.md",
     "Experience Inc/Mon-yu/Groups/Therian.md",
-    "Experience Inc/Mon-yu/People/Freyr.md",
     "Experience Inc/Mon-yu/Places/Demiheim.md",
-    "Experience Inc/Mon-yu/Places/Beastheim.md",
     "Experience Inc/Mon-yu/Places/Einheim.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-19.md",
     "Experience Inc/Mon-yu/Treasure/Mjolnir.md",
     "Experience Inc/Mon-yu/Band of Heroes.md",
     "fairies.md",
     "Experience Inc/Mon-yu/Hero Guild.md",
     "Experience Inc/Mon-yu/Things/Hero Crest.md",
-    "Experience Inc/Mon-yu/People/Chuck.md",
     "Experience Inc/Mon-yu/Things/Therianthrope Key.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
     "Experience Inc/Mon-yu/People/Akabu.md",
     "Experience Inc/Mon-yu/Things/Map Beetle.md",
     "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
     "scarab beetles.md",
-    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Back of Box.md",
-    "Experience Inc/Mon-yu/People/Eternia.md",
-    "Experience Inc/Mon-yu/People/Seven Devil Kings.md",
-    "Experience Inc/Mon-yu/Terminology/Hero Evaluation.md",
     "Experience Inc/Mon-yu/Classes",
     "Experience Inc/Mon-yu/Treasure",
     "Experience Inc/Mon-yu/Things",
