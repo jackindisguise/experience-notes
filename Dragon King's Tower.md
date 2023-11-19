@@ -1,1 +1,0 @@
-A synonym for [[Yggdran]].

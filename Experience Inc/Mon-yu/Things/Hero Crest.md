@@ -1,0 +1,1 @@
+Shows that one is chosen by the Queen of the Faeries, [[Eternia]].

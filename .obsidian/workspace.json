@@ -6,7 +6,7 @@
       {
         "id": "6ab9b3701d091b33",
         "type": "tabs",
-        "dimension": 40.793413173652695,
+        "dimension": 52.29508196721312,
         "children": [
           {
             "id": "c8c6c5ae9134e381",
@@ -25,7 +25,7 @@
       {
         "id": "fcc6058ef0969d2b",
         "type": "tabs",
-        "dimension": 59.206586826347305,
+        "dimension": 47.704918032786885,
         "children": [
           {
             "id": "d8abc54e3e31eecb",
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scarab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,35 +172,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8c6c5ae9134e381",
+  "active": "6824a0a2468ccd9e",
   "lastOpenFiles": [
-    "Experience Inc/Mon-yu/Treasure/Mjolnir.md",
-    "Experience Inc/Mon-yu/Treasure/Clanniebe.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-19.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
-    "Experience Inc/Mon-yu/Places/Devil Kings.md",
-    "Experience Inc/Mon-yu/Places/Yggdran.md",
-    "Experience Inc/Mon-yu/People/Freyr.md",
-    "Experience Inc/Mon-yu/People/Ukaba.md",
-    "Dragon King's Tower.md",
-    "Experience Inc/Mon-yu/Terminology/beastman.md",
-    "Experience Inc/Mon-yu/Groups/Therian.md",
-    "Experience Inc/Mon-yu/Terminology/therianthrope.md",
-    "Experience Inc/Mon-yu/Places/Einheim.md",
-    "Experience Inc/Mon-yu/Places/Tir na Balc.md",
-    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
-    "Experience Inc/Undernauts/Professions/Tactician.md",
-    "Experience Inc/Undernauts/Professions/Hunter.md",
-    "Experience Inc/Undernauts/Professions/Cleric.md",
-    "Experience Inc/Mon-yu/Classes/Fighter (Monyuu).md",
-    "Experience Inc/Mon-yu/Classes",
-    "Experience Inc/Undernauts/Fighter (Undernauts).md",
     "Experience Inc/Mon-yu/Terminology/Annihilation.md",
-    "Experience Inc/Mon-yu/_DAILY/Untitled.md",
-    "Devil Kings.md",
+    "Experience Inc/Mon-yu/Terminology/beastman.md",
+    "Experience Inc/Mon-yu/Terminology/enemy emblems.md",
+    "Experience Inc/Mon-yu/Terminology/therianthrope.md",
+    "Experience Inc/Mon-yu/Groups/Therian.md",
+    "Experience Inc/Mon-yu/People/Freyr.md",
     "Experience Inc/Mon-yu/Places/Demiheim.md",
+    "Experience Inc/Mon-yu/Places/Beastheim.md",
+    "Experience Inc/Mon-yu/Places/Einheim.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-19.md",
+    "Experience Inc/Mon-yu/Treasure/Mjolnir.md",
+    "Experience Inc/Mon-yu/Band of Heroes.md",
+    "fairies.md",
+    "Experience Inc/Mon-yu/Hero Guild.md",
+    "Experience Inc/Mon-yu/Things/Hero Crest.md",
     "Experience Inc/Mon-yu/People/Chuck.md",
+    "Experience Inc/Mon-yu/Things/Therianthrope Key.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
+    "Experience Inc/Mon-yu/People/Akabu.md",
+    "Experience Inc/Mon-yu/Things/Map Beetle.md",
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
+    "scarab beetles.md",
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Back of Box.md",
+    "Experience Inc/Mon-yu/People/Eternia.md",
+    "Experience Inc/Mon-yu/People/Seven Devil Kings.md",
+    "Experience Inc/Mon-yu/Terminology/Hero Evaluation.md",
+    "Experience Inc/Mon-yu/Classes",
     "Experience Inc/Mon-yu/Treasure",
     "Experience Inc/Mon-yu/Things",
     "Experience Inc/Mon-yu/Groups",

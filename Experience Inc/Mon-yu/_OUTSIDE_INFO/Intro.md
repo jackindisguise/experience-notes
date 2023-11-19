@@ -1,8 +1,8 @@
 [[Tir na Balc]], where [[fairies]] live, the land of swords and sorcery.
 
-In this land stood the [[Dragon King's Tower]] [[Yggdran]], housing hidden [[treasures]] that could bring peace.
+In this land stood the [[Yggdran|Dragon King's Tower]] [[Yggdran]], housing [[hidden treasure]] that could bring peace.
 
-But one day, out of nowhere, the [[Seven Devil Kings]] stole all the hidden treasures.
+But one day, out of nowhere, the [[Devil Kings|Seven Devil Kings]] stole all the hidden treasures.
 
 Using the treasures' power to rule over [[demons]], they transformed the tower into a [[Yggdran|terrible dungeon]].
 

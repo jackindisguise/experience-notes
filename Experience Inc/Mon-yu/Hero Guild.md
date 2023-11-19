@@ -1,0 +1,1 @@
+Allows the creation and formation of a [[Band of Heroes]].

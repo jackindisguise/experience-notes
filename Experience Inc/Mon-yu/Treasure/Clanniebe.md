@@ -1,3 +1,8 @@
+---
+aliases:
+  - Hidden Treasure
+  - Hidden Treasures
+---
 Apparently has seven parts:
 1. [[Mjolnir]]
 2. ?
@@ -6,3 +11,5 @@ Apparently has seven parts:
 5. ?
 6. ?
 7. ?
+
+#hidden_treasure 
