@@ -6,7 +6,7 @@
       {
         "id": "6ab9b3701d091b33",
         "type": "tabs",
-        "dimension": 21.908315565031984,
+        "dimension": 34.5679012345679,
         "children": [
           {
             "id": "c8c6c5ae9134e381",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-20.md",
+                "file": "Experience Inc/Mon-yu/Mon-yu.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "d50632fa82ede6a2",
         "type": "tabs",
-        "dimension": 23.08102345415778,
+        "dimension": 31.953522149600584,
         "children": [
           {
             "id": "fea722b77b566a0f",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-20.md",
+                "file": "Experience Inc/Mon-yu/Mon-yu.md",
                 "mode": "preview",
                 "source": false
               }
@@ -46,7 +46,7 @@
       {
         "id": "fcc6058ef0969d2b",
         "type": "tabs",
-        "dimension": 55.010660980810236,
+        "dimension": 33.47857661583152,
         "children": [
           {
             "id": "d8abc54e3e31eecb",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-20.md",
+                "file": "Experience Inc/Mon-yu/Mon-yu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-20.md",
+                "file": "Experience Inc/Mon-yu/Mon-yu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-20.md"
+                "file": "Experience Inc/Mon-yu/Mon-yu.md"
               }
             }
           },
@@ -176,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,34 +193,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba4a8e89135b2085",
+  "active": "fea722b77b566a0f",
   "lastOpenFiles": [
-    "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+    "Experience Inc/Mon-yu/Places/Tir na Balc.md",
     "Experience Inc/Mon-yu/_DAILY/2023-11-20.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-19.md",
+    "Experience Inc/Mon-yu/Places/Yggdran.md",
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Back of Box.md",
+    "Experience Inc/Mon-yu/Playstyles.md",
+    "Experience Inc/Mon-yu/Mon-yu.md",
+    "Experience Inc/Mon-yu/People/Holy Knight Sieg.md",
+    "Experience Inc/Mon-yu/People/Hel.md",
+    "Experience Inc/Mon-yu/People/Freyr.md",
+    "Experience Inc/Mon-yu/People/Eternia.md",
+    "Experience Inc/Mon-yu/People/Devil Kings.md",
+    "Experience Inc/Mon-yu/People/Chuck.md",
+    "Experience Inc/Mon-yu/People/Akabu.md",
+    "Experience Inc/Mon-yu/Classes/Fighter (Mon-yu).md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
     "Experience Inc/Undernauts/Undernauts.md",
+    "Experience Inc/Mon-yu/Terminology/Annihilation.md",
+    "Experience Inc/Mon-yu/Things/Hero Crest.md",
+    "Experience Inc/Mon-yu/Places/Einheim.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-19.md",
     "Experience Inc/Mon-yu/Terminology/Hero Evaluation.md",
     "Experience Inc/Mon-yu/Things/Clan Skill.md",
     "Experience Inc/Mon-yu/Treasure/Mistilteinn.md",
     "Experience Inc/Undernauts/Boosts.md",
-    "Experience Inc/Mon-yu/Monyuu.md",
-    "Experience Inc/Mon-yu/Things/Curious Clover.md",
-    "Experience Inc/Mon-yu/People/Devil Kings.md",
-    "Experience Inc/Mon-yu/Terminology/Band of Heroes.md",
-    "Experience Inc/Mon-yu/Places/Bonheim.md",
-    "Experience Inc/Mon-yu/Places/Demiheim.md",
-    "Experience Inc/Mon-yu/Playstyles.md",
-    "Experience Inc/Mon-yu/Places/Hero Guild.md",
-    "Experience Inc/Mon-yu/People/Chuck.md",
-    "Experience Inc/Mon-yu/Terminology/beastman.md",
-    "Experience Inc/Mon-yu/Terminology/enemy emblems.md",
-    "Experience Inc/Mon-yu/Terminology/therianthrope.md",
-    "Experience Inc/Mon-yu/_DAILY/Mistelteinn.md",
-    "Experience Inc/Mon-yu/People/Hel.md",
-    "Experience Inc/Mon-yu/People/Fenrir.md",
-    "Experience Inc/Mon-yu/People/Freyr.md",
-    "Experience Inc/Mon-yu/People/Eternia.md",
-    "Experience Inc/Mon-yu/Places/Beastheim.md",
     "Experience Inc/Mon-yu/Classes",
     "Experience Inc/Mon-yu/Treasure",
     "Experience Inc/Mon-yu/Things",
