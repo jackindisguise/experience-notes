@@ -1,5 +1,5 @@
-"[[Therian]] Realm"
+>**[[Therian]] Realm**
 
-The first level of [[Yggdran]], ruled by the Demi-Human Devil King, [[Freyr]].
+The first level of [[Yggdran]], ruled by the [[Devil Kings|Devil King]] [[Freyr]].
 
 #yggdran 

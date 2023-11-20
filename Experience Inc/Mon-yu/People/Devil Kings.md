@@ -6,7 +6,7 @@ aliases:
 There are seven Devil Kings:
 1. [[Freyr]], boss of the harpies and goblins.
 2. [[Fenrir]], boss of something.
-3. ?
+3. [[Hel]], boss of something.
 4. ?
 5. ?
 6. ?

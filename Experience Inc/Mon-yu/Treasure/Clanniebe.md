@@ -2,10 +2,11 @@
 aliases:
   - Hidden Treasure
   - Hidden Treasures
+  - Seven Hidden Treasures
 ---
-Apparently has seven parts:
+# The Seven Hidden Treasures
 1. [[Mjolnir]]
-2. ?
+2. [[Mistilteinn]]
 3. ?
 4. ?
 5. ?
