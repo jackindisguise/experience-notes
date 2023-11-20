@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#profession  ",
@@ -32,6 +32,6 @@
   "repelStrength": 8.22916666666667,
   "linkStrength": 0.96875,
   "linkDistance": 358,
-  "scale": 0.1387322393266625,
+  "scale": 0.38230109687700237,
   "close": true
 }

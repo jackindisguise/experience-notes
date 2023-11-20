@@ -6,7 +6,7 @@
       {
         "id": "6ab9b3701d091b33",
         "type": "tabs",
-        "dimension": 39.75588491717524,
+        "dimension": 21.908315565031984,
         "children": [
           {
             "id": "c8c6c5ae9134e381",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Mon-yu/Places/Bonheim.md",
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "d50632fa82ede6a2",
         "type": "tabs",
-        "dimension": 35.30950305143853,
+        "dimension": 23.08102345415778,
         "children": [
           {
             "id": "fea722b77b566a0f",
@@ -34,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Mon-yu/Places/Bonheim.md",
-                "mode": "source",
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-20.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -46,7 +46,7 @@
       {
         "id": "fcc6058ef0969d2b",
         "type": "tabs",
-        "dimension": 24.934612031386223,
+        "dimension": 55.010660980810236,
         "children": [
           {
             "id": "d8abc54e3e31eecb",
@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 200
   },
   "right": {
     "id": "a4fcf206dc3a1ffb",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experience Inc/Mon-yu/Places/Bonheim.md",
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experience Inc/Mon-yu/Places/Bonheim.md",
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experience Inc/Mon-yu/Places/Bonheim.md"
+                "file": "Experience Inc/Mon-yu/_DAILY/2023-11-20.md"
               }
             }
           },
@@ -176,12 +176,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,21 +192,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6824a0a2468ccd9e",
+  "active": "ba4a8e89135b2085",
   "lastOpenFiles": [
-    "Experience Inc/Mon-yu/Places/Demiheim.md",
-    "Experience Inc/Mon-yu/Places/Bonheim.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-20.md",
     "Experience Inc/Mon-yu/_DAILY/2023-11-19.md",
+    "Experience Inc/Undernauts/Undernauts.md",
+    "Experience Inc/Mon-yu/Terminology/Hero Evaluation.md",
     "Experience Inc/Mon-yu/Things/Clan Skill.md",
     "Experience Inc/Mon-yu/Treasure/Mistilteinn.md",
+    "Experience Inc/Undernauts/Boosts.md",
+    "Experience Inc/Mon-yu/Monyuu.md",
+    "Experience Inc/Mon-yu/Things/Curious Clover.md",
     "Experience Inc/Mon-yu/People/Devil Kings.md",
     "Experience Inc/Mon-yu/Terminology/Band of Heroes.md",
+    "Experience Inc/Mon-yu/Places/Bonheim.md",
+    "Experience Inc/Mon-yu/Places/Demiheim.md",
     "Experience Inc/Mon-yu/Playstyles.md",
     "Experience Inc/Mon-yu/Places/Hero Guild.md",
     "Experience Inc/Mon-yu/People/Chuck.md",
     "Experience Inc/Mon-yu/Terminology/beastman.md",
     "Experience Inc/Mon-yu/Terminology/enemy emblems.md",
-    "Experience Inc/Mon-yu/Terminology/Hero Evaluation.md",
     "Experience Inc/Mon-yu/Terminology/therianthrope.md",
     "Experience Inc/Mon-yu/_DAILY/Mistelteinn.md",
     "Experience Inc/Mon-yu/People/Hel.md",
@@ -215,12 +220,6 @@
     "Experience Inc/Mon-yu/People/Freyr.md",
     "Experience Inc/Mon-yu/People/Eternia.md",
     "Experience Inc/Mon-yu/Places/Beastheim.md",
-    "Experience Inc/Mon-yu/Places/Einheim.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
-    "Experience Inc/Mon-yu/Treasure/Mjolnir.md",
-    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
-    "Experience Inc/Mon-yu/_DAILY/hidden treasure.md",
-    "Experience Inc/Mon-yu/People/Hidden Treasure.md",
     "Experience Inc/Mon-yu/Classes",
     "Experience Inc/Mon-yu/Treasure",
     "Experience Inc/Mon-yu/Things",

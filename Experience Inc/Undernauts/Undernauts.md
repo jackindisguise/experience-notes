@@ -16,7 +16,7 @@ You can upgrade gear at the reactors, with each upgrade adding +1 to its name. D
 # Combat
 While in hostile areas outside of the camp, there are random encounters as well as field icons that trigger combat when touched. During combat, you will assign each character's actions for each round. Turns are taken in order based on various factors, including the character's speed and which action you chose. For example, [[Fencer|fencers]] have the skill [[Iai Slash]] which has a higher turn priority. [[Tactician|Tacticians]] have the skill [[Power Swing]] which has a significant turn delay.
 ## Boost System
-Undernauts have been modified through technology to be superhumans. In combat, you will have access to three buffs called "[[boost|boosts]]" that last for a single round.
+Undernauts have been modified through technology to be superhumans. In combat, you will have access to three buffs called "[[Boosts]]" that last for a single round.
 * [[Power Boost]] provides mana-free skill usage, and all skills used will be stronger.
 * [[Dura Boost]] provides increased damage mitigation for your team, as well as immunity to status effects, instant kill magic, and [[kidnapping]].
 * [[Neuro Boost]] provides increased turn priority for actions, buffs to [[speed]] and [[luck]], and gives a boost to experience earned at the end of combat if you use it on the final turn.
