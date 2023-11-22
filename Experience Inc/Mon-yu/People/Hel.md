@@ -1,5 +1,5 @@
->**??? Devil King**
+>**Undead Devil King**
 
-One of the [[Devil Kings|Seven Devil Kings]].
+The ruler of [[Bonheim]] and one of the [[Devil Kings|Seven Devil Kings]].
 
 Carrier of the [[Clanniebe|Hidden Treasure]] ???.
