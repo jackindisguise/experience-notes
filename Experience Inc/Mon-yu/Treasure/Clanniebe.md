@@ -7,7 +7,7 @@ aliases:
 # The Seven Hidden Treasures
 1. [[Mjolnir]]
 2. [[Mistilteinn]]
-3. ?
+3. [[Gjallarhorn]]
 4. ?
 5. ?
 6. ?
