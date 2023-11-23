@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Mon-yu/Terminology/Clan Skill.md",
+                "file": "Experience Inc/Mon-yu/People/Surtr.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 321.5
   },
   "right": {
     "id": "a4fcf206dc3a1ffb",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experience Inc/Mon-yu/Terminology/Clan Skill.md",
+                "file": "Experience Inc/Mon-yu/People/Surtr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experience Inc/Mon-yu/Terminology/Clan Skill.md",
+                "file": "Experience Inc/Mon-yu/People/Surtr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experience Inc/Mon-yu/Terminology/Clan Skill.md"
+                "file": "Experience Inc/Mon-yu/People/Surtr.md"
               }
             }
           },
@@ -155,12 +155,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,34 +173,34 @@
   },
   "active": "c8c6c5ae9134e381",
   "lastOpenFiles": [
+    "Experience Inc/Mon-yu/People/Ukaba.md",
+    "Experience Inc/Mon-yu/People/Devil Kings.md",
+    "Experience Inc/Mon-yu/Places/Yggdran.md",
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Back of Box.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-19.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
+    "Experience Inc/Mon-yu/_DAILY/2023-11-22.md",
+    "Experience Inc/Mon-yu/Places/Tir na Balc.md",
+    "Experience Inc/Mon-yu/People/Holy Knight Sieg.md",
+    "Experience Inc/Mon-yu/People/Mimijii.md",
+    "Experience Inc/Templates/Devil King Template.md",
+    "Experience Inc/Mon-yu/Places/Bonheim.md",
+    "Experience Inc/Mon-yu/Places/Beastheim.md",
+    "Experience Inc/Mon-yu/Places/Yoheim.md",
+    "Experience Inc/Mon-yu/Terminology/Clan Skill.md",
     "Experience Inc/Mon-yu/Terminology/therianthrope.md",
     "Experience Inc/Mon-yu/Things/Therianthrope Key.md",
-    "Experience Inc/Mon-yu/Terminology/Clan Skill.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-22.md",
     "Experience Inc/Mon-yu/Treasure/Clanniebe.md",
     "Experience Inc/Mon-yu/People/Surtr.md",
-    "Experience Inc/Mon-yu/Places/Yoheim.md",
-    "Experience Inc/Mon-yu/Places/Bonheim.md",
     "Experience Inc/Mon-yu/People/Hel.md",
     "Experience Inc/Templates/Treasure Template.md",
-    "Experience Inc/Templates/Devil King Template.md",
     "Experience Inc/Mon-yu/Untitled.canvas",
     "Magic Defense.md",
     "Experience Inc/Mon-yu/Places/Demiheim.md",
     "Experience Inc/Mon-yu/Places/Einheim.md",
-    "Experience Inc/Mon-yu/Places/Beastheim.md",
-    "Experience Inc/Mon-yu/People/Chuck.md",
-    "Experience Inc/Mon-yu/Treasure/Mistilteinn.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-19.md",
-    "Experience Inc/Mon-yu/Treasure/Gjallarhorn.md",
-    "Experience Inc/Mon-yu/Treasure/Mjolnir.md",
-    "Experience Inc/Mon-yu/Things/Scarab Beetles.md",
-    "Experience Inc/Mon-yu/Field Guide.md",
-    "Experience Inc/Mon-yu/People/Fenrir.md",
-    "Experience Inc/Mon-yu/People/Freyr.md",
     "Experience Inc/Templates",
-    "Experience Inc/Mon-yu/Untitled.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
     "Experience Inc/Mon-yu/Classes",
     "Experience Inc/Mon-yu/Treasure",
     "Experience Inc/Mon-yu/Things",

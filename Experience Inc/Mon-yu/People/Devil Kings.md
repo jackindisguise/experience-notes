@@ -7,7 +7,7 @@ There are seven Devil Kings:
 1. [[Freyr]], boss of the harpies and goblins.
 2. [[Fenrir]], boss of something.
 3. [[Hel]], boss of something.
-4. ?
+4. [[Surtr]], boss of the giants.
 5. ?
 6. ?
 7. ?
