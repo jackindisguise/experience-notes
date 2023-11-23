@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Mon-yu/Treasure/Gjallarhorn.md",
+                "file": "Mon-yu/Treasure/Gjallarhorn.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Inc/Mon-yu/_DAILY/_QUESTIONS.md",
+                "file": "Mon-yu/_DAILY/_QUESTIONS.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Undernauts/Yomiten.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Undernauts/Yomiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Undernauts/Yomiten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Undernauts/Yomiten.md"
+              }
             }
           },
           {
@@ -191,44 +195,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be60e5f8d8f1ddc4",
+  "active": "e21428d8b367f646",
   "lastOpenFiles": [
+    "Undernauts/Undernauts.md",
+    "Undernauts/Blessing of Regeneration.md",
     "README.md",
-    "Experience Inc/Undernauts/Undernauts.md",
-    "Experience Inc/Mon-yu/People/Devil Kings.md",
+    "Mon-yu/People/Devil Kings.md",
     "Experience Inc/Mon-yu/Treasure/Boon Clan Skill.md",
-    "Experience Inc/Mon-yu/_DAILY/_QUESTIONS.md",
-    "Experience Inc/Templates/Treasure Template.md",
-    "Experience Inc/Templates/Devil King Template.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-13.md",
-    "Experience Inc/Mon-yu/Treasure/Clanniebe.md",
+    "Mon-yu/_DAILY/_QUESTIONS.md",
+    "Templates/Treasure Template.md",
+    "Templates/Devil King Template.md",
+    "Mon-yu/_DAILY/2023-11-13.md",
+    "Mon-yu/Treasure/Clanniebe.md",
     "Experience Inc/Mon-yu/Untitled",
     "Experience Inc/Mon-yu/Untitled.md",
-    "Experience Inc/Mon-yu/Treasure/Gjallarhorn.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-22.md",
-    "Experience Inc/Mon-yu/Terminology/Clan Skill.md",
-    "Experience Inc/Mon-yu/Treasure/Mjolnir.md",
+    "Mon-yu/Treasure/Gjallarhorn.md",
+    "Mon-yu/_DAILY/2023-11-22.md",
+    "Mon-yu/Terminology/Clan Skill.md",
+    "Mon-yu/Treasure/Mjolnir.md",
     "Experience Inc/Mon-yu/Treasure/Untitled.md",
-    "Experience Inc/Mon-yu/Treasure/Mistilteinn.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-19.md",
-    "Experience Inc/Mon-yu/People/Hel.md",
-    "Experience Inc/Mon-yu/_DAILY/2023-11-18.md",
-    "Experience Inc/Mon-yu/People/Surtr.md",
-    "Experience Inc/Mon-yu/Places/Yoheim.md",
-    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Intro.md",
-    "Experience Inc/Mon-yu/Places/Tir na Balc.md",
-    "Experience Inc/Mon-yu/People/Ukaba.md",
-    "Experience Inc/Mon-yu/Places/Yggdran.md",
-    "Experience Inc/Mon-yu/_OUTSIDE_INFO/Back of Box.md",
+    "Mon-yu/Treasure/Mistilteinn.md",
+    "Mon-yu/_DAILY/2023-11-19.md",
+    "Mon-yu/People/Hel.md",
+    "Mon-yu/_DAILY/2023-11-18.md",
+    "Mon-yu/People/Surtr.md",
+    "Mon-yu/Places/Yoheim.md",
+    "Mon-yu/_OUTSIDE_INFO/Intro.md",
+    "Mon-yu/Places/Tir na Balc.md",
+    "Mon-yu/People/Ukaba.md",
+    "Mon-yu/Places/Yggdran.md",
     "Experience Inc/Mon-yu/Untitled.canvas",
-    "Experience Inc/Templates",
-    "Experience Inc/Mon-yu/Classes",
-    "Experience Inc/Mon-yu/Treasure",
-    "Experience Inc/Mon-yu/Things",
-    "Experience Inc/Mon-yu/Groups",
-    "Experience Inc/Mon-yu/Terminology",
-    "Experience Inc/Mon-yu/Places",
-    "Experience Inc/Mon-yu/People",
+    "Templates",
+    "Mon-yu/Classes",
+    "Mon-yu/Treasure",
+    "Mon-yu/Things",
+    "Mon-yu/Groups",
+    "Mon-yu/Terminology",
+    "Mon-yu/Places",
+    "Mon-yu/People",
     "Experience Inc/Mon-yu/Help",
     "Experience Inc/Undernauts/Untitled.canvas",
     "Untitled.canvas"
