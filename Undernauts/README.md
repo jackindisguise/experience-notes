@@ -1,4 +1,4 @@
-![Undernauts](https://static.wikia.nocookie.net/experience-inc/images/c/c6/Undernauts_Labyrinth_of_Yomi_%28Slider%29.jpg/revision/latest/scale-to-width-down/800?cb=20221007015547)
+![Undernauts](http://www.aksysgames.com/undernauts/wp-content/uploads/sites/66/2021/09/UN_AGLG1a.png)
 # Undernauts
 These are my notes for Undernauts!
 
