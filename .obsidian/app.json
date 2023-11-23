@@ -12,8 +12,12 @@
   "attachmentFolderPath": "./",
   "propertiesInDocument": "visible",
   "userIgnoreFilters": [
-    "Experience Inc/Templates/",
-    "Experience Inc/Mon-yu/_DAILY/",
-    "Experience Inc/Mon-yu/_OUTSIDE_INFO/"
-  ]
+    "Mon-yu/_DAILY/",
+    "Mon-yu/_OUTSIDE_INFO/",
+    "Templates/",
+    "README",
+    "\"README\"",
+    "\"/README/\""
+  ],
+  "readableLineLength": false
 }

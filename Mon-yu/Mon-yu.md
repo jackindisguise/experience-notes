@@ -15,3 +15,5 @@ The Queen grants you her blessing using [[Secret Revival Magic]], allowing you t
 Most of the gameplay elements build on the improvements leading up to Undernauts, offering almost the exact same character creation system with the same classes and even the same skills and spells.
 # Exploring Yggdran
 Just like the [[Yomi Flowers]] present in Undernauts, the [[Clanniebe|Seven Hidden Treasures]] grant you new methods of exploring Yggdran, progressively unlocking hidden doors, the ability to build bridges, and so on.
+
+#game

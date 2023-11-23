@@ -44,3 +44,5 @@ After returning to Camp 1, she immediately moves to the fusion reactor, calling 
 Noticing the fusion reactor is active, Supervisor Hanba attempts to reconnect the Chinowa Gate so you can escape from Yomi. The gate opens momentarily, but then disappears again. At the same time, a man begins broadcasting a message to your portable radio. He tells you he is responsible for the gate not working. He tells you that the 8 Sinners are responsible for wiping out Camp 2, and that they will come to wipe out Camp 1 soon, unless you wipe them out first.
 
 Before leaving Camp, you speak with Luci. She tells you she has blessed everyone at the camp with the [[Blessing of Regeneration]]. She explains that the fusion reactors are capable of granting miracles in exchange for a powerful sacrifice. She asks you to bring her the souls of the Sinners, so she can sacrifice them to the Spirit Tree in exchange for a miracle to escape from Yomi.
+
+#game
