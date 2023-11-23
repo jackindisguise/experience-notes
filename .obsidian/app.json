@@ -14,7 +14,6 @@
   "userIgnoreFilters": [
     "Experience Inc/Templates/",
     "Experience Inc/Mon-yu/_DAILY/",
-    "Experience Inc/Mon-yu/_OUTSIDE_INFO/",
-    "/README.md"
+    "Experience Inc/Mon-yu/_OUTSIDE_INFO/"
   ]
 }

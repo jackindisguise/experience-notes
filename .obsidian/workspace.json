@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,11 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d62cbb01af08bbb",
+  "active": "be60e5f8d8f1ddc4",
   "lastOpenFiles": [
+    "README.md",
     "Experience Inc/Undernauts/Undernauts.md",
     "Experience Inc/Mon-yu/People/Devil Kings.md",
-    "README.md.md",
     "Experience Inc/Mon-yu/Treasure/Boon Clan Skill.md",
     "Experience Inc/Mon-yu/_DAILY/_QUESTIONS.md",
     "Experience Inc/Templates/Treasure Template.md",
