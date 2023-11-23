@@ -1,6 +1,7 @@
 ---
 aliases:
   - Divine Protection
+  - Boon
 ---
 Clan Skills are the equivalent of [[Boosts]] from Undernauts. They provide positive special effects for 1 turn of combat.
 
