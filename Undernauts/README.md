@@ -1,5 +1,4 @@
 ![Undernauts](https://static.wikia.nocookie.net/experience-inc/images/d/db/Undernauts_Logo.png)
-# Undernauts
 These are my notes for Undernauts!
 
 This game was the impetus for taking these notes. I wanted to catalogue all the information about the game (since nobody else has) and find out the links between this game and other Experience Inc. games ([[Students of Round]] in particular).
