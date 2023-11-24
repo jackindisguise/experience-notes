@@ -5,3 +5,5 @@
 I believe [[Eternia]] talks about the Dragon King as basically the creator deity of at least "this world."
 
 I think this essentially means [[Yggdran]] is actually the Dragon King's body.
+# Who has the Charm power?
+My guess is it's Eternia, but we'll see. Eternia told [[Chuck]] that [[Sieg]] was charmed by the dark side, and to forget about him (which is a little sus).
