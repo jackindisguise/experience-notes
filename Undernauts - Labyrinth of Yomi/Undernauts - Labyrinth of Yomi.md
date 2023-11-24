@@ -1,6 +1,6 @@
 **Undernauts: Labyrinth of Yomi** is a first-person dungeon crawler developed by [[Experience Inc.]] and published by [[Aksys Games]] in October 2021 for Xbox One, PlayStation 4, and Nintendo Switch.
 # Gameplay
-After entering [[Yomi]], your entire crew gets wiped out by a mysterious [[Red Luci|girl in red]]. Your only escape route out of Yomi, the [[Chinowa Gate]], is seemingly sabotaged by [[Hideki Kuzedo|a man]] sending you messages on your portable radio. He tells you the only way to escape is to kill the 8 [[Sinners]].
+You take up your role as the leader of a team of technologically enhanced humans -- [[Undernauts]] -- exploring the mysterious labyrinth [[Yomi]] while fighting monsters and collecting treasure.
 ## Navigating the Labyrinth
 Like most 2D dungeon crawlers, you move through the labyrinth in a first-person view. As you travel through the labyrinth, a map of every zone will be filled out for you automatically. You can view a full-size version of the map, and you can automatically travel through already-explored areas by selecting a cell on the map.
 ## Flowers Reveal the Way

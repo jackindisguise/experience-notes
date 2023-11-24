@@ -4,40 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab9b3701d091b33",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c8c6c5ae9134e381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mon-yu/Treasure/Gjallarhorn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "460fb8b656cfadbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "c37fdc38b21fd405"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "9fb3d25831ae3703",
         "type": "tabs",
+        "dimension": 35.08124076809453,
         "children": [
           {
             "id": "2d62cbb01af08bbb",
@@ -45,12 +14,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
+                "file": "Mon-yu/Playstyles.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "c37fdc38b21fd405"
+          }
+        ]
+      },
+      {
+        "id": "afe6344ca15714e2",
+        "type": "tabs",
+        "dimension": 35.745937961595274,
+        "children": [
+          {
+            "id": "460fb8b656cfadbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mon-yu/Playstyles.md",
                 "mode": "preview",
                 "source": false
               }
             },
             "group": "c37fdc38b21fd405"
+          }
+        ]
+      },
+      {
+        "id": "8d13b5c0ecfdb3c1",
+        "type": "tabs",
+        "dimension": 29.17282127031019,
+        "children": [
+          {
+            "id": "c8c6c5ae9134e381",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           }
         ]
       }
@@ -118,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
+                "file": "Mon-yu/Playstyles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
+                "file": "Mon-yu/Playstyles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md"
+                "file": "Mon-yu/Playstyles.md"
               }
             }
           },
@@ -175,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,32 +195,32 @@
   },
   "active": "460fb8b656cfadbe",
   "lastOpenFiles": [
-    "Mon-yu/_DAILY/_QUESTIONS.md",
+    "Mon-yu/Things/Field Guide.md",
+    "Mon-yu/Mon-yu.md",
+    "Undernauts - Labyrinth of Yomi/Blessing of Regeneration.md",
+    "Undernauts - Labyrinth of Yomi/Boosts.md",
+    "Undernauts - Labyrinth of Yomi/Fighter (Undernauts).md",
+    "Undernauts - Labyrinth of Yomi/Undernauts - Labyrinth of Yomi.md",
+    "Undernauts - Labyrinth of Yomi/Yomiten.md",
+    "Mon-yu/Terminology/Clan Skill.md",
+    "Mon-yu/Places/Yggdran.md",
+    "Mon-yu/Places/Beastheim.md",
+    "Mon-yu/Places/Bonheim.md",
+    "Mon-yu/Places/Demiheim.md",
+    "Mon-yu/People/Devil Kings.md",
+    "Mon-yu/Terminology/Secret Revival Magic.md",
+    "Mon-yu/Playstyles.md",
+    "Secret Revival Magic.md",
+    "Mon-yu/Places/Yoheim.md",
+    "Mon-yu/Treasure/Gjallarhorn.md",
     "Mon-yu/_DAILY/_OBSERVATIONS.md",
+    "Mon-yu/_DAILY/_QUESTIONS.md",
     "Mon-yu/Treasure/Clanniebe.md",
     "Mon-yu/Treasure/Mjolnir.md",
     "Mon-yu/Treasure/Mistilteinn.md",
-    "Mon-yu/Treasure/Gjallarhorn.md",
     "Mon-yu/Treasure/Laevateinn.md",
-    "Mon-yu/Terminology/Clan Skill.md",
     "Mon-yu/People/Surtr.md",
     "Mon-yu/_DAILY/2023-11-23.md",
-    "Mon-yu/_DAILY/2023-11-22.md",
-    "Mon-yu/People/Devil Kings.md",
-    "Mon-yu/Places/Magiheim.md",
-    "Mon-yu/People/Hel.md",
-    "Mon-yu/Places/Bonheim.md",
-    "Mon-yu/Places/Demiheim.md",
-    "Mon-yu/Places/Einheim.md",
-    "Mon-yu/Field Guide.md",
-    "Mon-yu/People/Freyr.md",
-    "Mon-yu/People/Fenrir.md",
-    "README.md",
-    "Mon-yu/README.md",
-    "Undernauts/README.md",
-    "Undernauts/Undernauts.md",
-    "Undernauts/Yomiten.md",
-    "Mon-yu/Mon-yu.md",
     "Experience Inc/Mon-yu/Untitled",
     "Experience Inc/Mon-yu/Untitled.canvas",
     "Templates",
