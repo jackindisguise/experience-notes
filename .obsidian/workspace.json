@@ -23,10 +23,11 @@
             "id": "460fb8b656cfadbe",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Mon-yu/Treasure/Clanniebe.md",
-                "staged": false
+                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "c37fdc38b21fd405"
@@ -44,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/Treasure/Clanniebe.md",
+                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
                 "mode": "preview",
                 "source": false
               }
@@ -117,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md"
+              }
             }
           },
           {
@@ -184,6 +189,8 @@
   },
   "active": "460fb8b656cfadbe",
   "lastOpenFiles": [
+    "Mon-yu/_DAILY/_QUESTIONS.md",
+    "Mon-yu/_DAILY/_OBSERVATIONS.md",
     "Mon-yu/Treasure/Clanniebe.md",
     "Mon-yu/Treasure/Mjolnir.md",
     "Mon-yu/Treasure/Mistilteinn.md",
@@ -191,9 +198,7 @@
     "Mon-yu/Treasure/Laevateinn.md",
     "Mon-yu/Terminology/Clan Skill.md",
     "Mon-yu/People/Surtr.md",
-    "Mon-yu/_DAILY/_OBSERVATIONS.md",
     "Mon-yu/_DAILY/2023-11-23.md",
-    "Mon-yu/_DAILY/_QUESTIONS.md",
     "Mon-yu/_DAILY/2023-11-22.md",
     "Mon-yu/People/Devil Kings.md",
     "Mon-yu/Places/Magiheim.md",
