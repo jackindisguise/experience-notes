@@ -4,4 +4,4 @@ Held by the [[Devil Kings|Devil King]] ???.
 # ???'s Power
 >By Hidden Treasure ???'s power, the **heroes can now ???**.
 
-#hidden_treasure 
+#hidden-treasure 

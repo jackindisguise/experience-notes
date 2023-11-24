@@ -23,11 +23,10 @@
             "id": "460fb8b656cfadbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-11-23.md",
-                "mode": "source",
-                "source": false
+                "file": "Mon-yu/Treasure/Clanniebe.md",
+                "staged": false
               }
             },
             "group": "c37fdc38b21fd405"
@@ -45,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-11-23.md",
+                "file": "Mon-yu/Treasure/Clanniebe.md",
                 "mode": "preview",
                 "source": false
               }
@@ -81,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#yggdran",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mon-yu/_DAILY/2023-11-23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,33 +184,33 @@
   },
   "active": "460fb8b656cfadbe",
   "lastOpenFiles": [
+    "Mon-yu/Treasure/Clanniebe.md",
+    "Mon-yu/Treasure/Mjolnir.md",
+    "Mon-yu/Treasure/Mistilteinn.md",
+    "Mon-yu/Treasure/Gjallarhorn.md",
+    "Mon-yu/Treasure/Laevateinn.md",
+    "Mon-yu/Terminology/Clan Skill.md",
     "Mon-yu/People/Surtr.md",
-    "Mon-yu/_DAILY/2023-11-22.md",
+    "Mon-yu/_DAILY/_OBSERVATIONS.md",
     "Mon-yu/_DAILY/2023-11-23.md",
     "Mon-yu/_DAILY/_QUESTIONS.md",
+    "Mon-yu/_DAILY/2023-11-22.md",
+    "Mon-yu/People/Devil Kings.md",
+    "Mon-yu/Places/Magiheim.md",
+    "Mon-yu/People/Hel.md",
+    "Mon-yu/Places/Bonheim.md",
+    "Mon-yu/Places/Demiheim.md",
+    "Mon-yu/Places/Einheim.md",
+    "Mon-yu/Field Guide.md",
+    "Mon-yu/People/Freyr.md",
+    "Mon-yu/People/Fenrir.md",
     "README.md",
     "Mon-yu/README.md",
     "Undernauts/README.md",
     "Undernauts/Undernauts.md",
     "Undernauts/Yomiten.md",
     "Mon-yu/Mon-yu.md",
-    "Undernauts/Blessing of Regeneration.md",
-    "Experience Inc..md",
-    "Mon-yu/_DAILY/2023-11-13.md",
-    "Mon-yu/People/Devil Kings.md",
-    "Experience Inc/Mon-yu/Treasure/Boon Clan Skill.md",
-    "Templates/Treasure Template.md",
-    "Templates/Devil King Template.md",
-    "Mon-yu/Treasure/Clanniebe.md",
     "Experience Inc/Mon-yu/Untitled",
-    "Experience Inc/Mon-yu/Untitled.md",
-    "Mon-yu/Treasure/Gjallarhorn.md",
-    "Mon-yu/Terminology/Clan Skill.md",
-    "Mon-yu/Treasure/Mjolnir.md",
-    "Experience Inc/Mon-yu/Treasure/Untitled.md",
-    "Mon-yu/Treasure/Mistilteinn.md",
-    "Mon-yu/_DAILY/2023-11-19.md",
-    "Mon-yu/People/Hel.md",
     "Experience Inc/Mon-yu/Untitled.canvas",
     "Templates",
     "Mon-yu/Classes",

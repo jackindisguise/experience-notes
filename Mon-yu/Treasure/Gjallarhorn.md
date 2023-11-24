@@ -4,4 +4,4 @@ Held by the [[Devil Kings|Devil King]] [[Hel]].
 # Gjallarhorn's Power
 >By Hidden Treasure Gjallarhorn's power, the **heroes can now use the [[Clan Skill|Boon]] Clan Skill**.
 
-#hidden_treasure 
+#hidden-treasure 
