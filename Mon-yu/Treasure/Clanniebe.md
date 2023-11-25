@@ -9,7 +9,7 @@ aliases:
 2. [[Mistilteinn]], the Holy Tree's Protection.
 3. [[Gjallarhorn]], the Joyous Flute.
 4. [[Laevateinn]], the Transcendent Wand.
-5. ?
+5. [[Brisingamen]], the Pledge of Fire.
 6. ?
 7. ?
 

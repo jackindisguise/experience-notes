@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/Playstyles.md",
+                "file": "Mon-yu/_DAILY/2023-11-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/Playstyles.md",
+                "file": "Mon-yu/_DAILY/2023-11-23.md",
                 "mode": "preview",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/Playstyles.md",
+                "file": "Mon-yu/_DAILY/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/Playstyles.md",
+                "file": "Mon-yu/_DAILY/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mon-yu/Playstyles.md"
+                "file": "Mon-yu/_DAILY/2023-11-23.md"
               }
             }
           },
@@ -193,8 +193,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "460fb8b656cfadbe",
+  "active": "2d62cbb01af08bbb",
   "lastOpenFiles": [
+    "Mon-yu/Treasure/Brisingamen.md",
+    "Mon-yu/Treasure/Mjolnir.md",
+    "Mon-yu/_DAILY/2023-11-23.md",
+    "Mon-yu/Treasure/Gjallarhorn.md",
+    "Mon-yu/Treasure/Clanniebe.md",
+    "Mon-yu/_DAILY/2023-11-22.md",
+    "Mon-yu/People/Norn.md",
+    "Mon-yu/People/Devil Kings.md",
+    "Mon-yu/People/Surtr.md",
+    "2023-11-24.md",
+    "Mon-yu/Places/Magiheim.md",
+    "Mon-yu/Places/Yoheim.md",
+    "Mon-yu/Places/Tir na Balc.md",
+    "Mon-yu/Places/Hero Guild.md",
+    "Mon-yu/Playstyles.md",
     "Mon-yu/Things/Field Guide.md",
     "Mon-yu/Mon-yu.md",
     "Undernauts - Labyrinth of Yomi/Blessing of Regeneration.md",
@@ -206,21 +221,6 @@
     "Mon-yu/Places/Yggdran.md",
     "Mon-yu/Places/Beastheim.md",
     "Mon-yu/Places/Bonheim.md",
-    "Mon-yu/Places/Demiheim.md",
-    "Mon-yu/People/Devil Kings.md",
-    "Mon-yu/Terminology/Secret Revival Magic.md",
-    "Mon-yu/Playstyles.md",
-    "Secret Revival Magic.md",
-    "Mon-yu/Places/Yoheim.md",
-    "Mon-yu/Treasure/Gjallarhorn.md",
-    "Mon-yu/_DAILY/_OBSERVATIONS.md",
-    "Mon-yu/_DAILY/_QUESTIONS.md",
-    "Mon-yu/Treasure/Clanniebe.md",
-    "Mon-yu/Treasure/Mjolnir.md",
-    "Mon-yu/Treasure/Mistilteinn.md",
-    "Mon-yu/Treasure/Laevateinn.md",
-    "Mon-yu/People/Surtr.md",
-    "Mon-yu/_DAILY/2023-11-23.md",
     "Experience Inc/Mon-yu/Untitled",
     "Experience Inc/Mon-yu/Untitled.canvas",
     "Templates",
