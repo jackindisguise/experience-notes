@@ -8,3 +8,14 @@ The fact that Sieg is still alive but Eternia told Chuck to "forget about him" r
 My guess is that Sieg, as well as the heroes, were mind-controlled by Eternia into collecting the [[Clanniebe|Seven Hidden Treasures]]. Probably to get her powers back, which were stolen by the [[Devil Kings|Seven Devil Kings]]. My guess is that the final [[Devil Kings|Devil King]] will be very revealing -- possibly a fairy or a human who betrayed or defeated Eternia in one way or another.
 
 Eternia reveals that [[Laevateinn]] gave the fairies the power to fight the demons, but adds the caveat that they're still weaker than the heroes. This might be true, though my guess is it isn't.
+# Are these actually the fairies?
+> [!quote] Eternia
+>The Hidden Treasure, Laevateinn, is known as 'The Transcendent Wand'.
+>
+>Once, the weak fae cowered from a demon's mere shadow.
+>
+>Laevateinn miraculously gave the fairies the power to fight demons.
+>
+>...Though our power is nothing compared to yours.
+
+If Laevateinn gave the fairies the power to defeat the demons, why aren't the fairies defeating the demons? Maybe Eternia is a demon, and we're killing the fairies?
