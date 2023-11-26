@@ -1,13 +1,14 @@
 >[!summary]
->Target: Single Row (Cost: 6 MP)
->Attacks 1-3 times in succession.
->Damage -20%.
+>Target: Self (Cost: 3 MP)
+>Chance to protect against single-target attacks.
+>Defend Rate 70% / Evasion +50%.
+>Defense rate halved if in back row.
 # Learned by
 | Class   | Enhancement | Max Level |
 | ------- | ----------- | --------- |
-| Warrior | Law         | 5         |
 | Warrior | Chaos       | 4         |
-| Warrior |             | 3?        |
+| Knight  | Law         | 6         |
+| Knight  | Chaos       | 5         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |
@@ -16,5 +17,6 @@
 | 3     | ?       |
 | 4     | ?       |
 | 5     | ?       |
+| 6     | ?       | 
 
 #skill 

@@ -1,18 +1,17 @@
 >[!summary]
 >Target: Self (Always Active)
->Increases hit rate.
->Accuracy Up +15%.
+>Increases power of Hammers.
+>Weapon Attack Power +5%.
 # Learned by
 | Class   | Enhancement | Max Level |
 | ------- | ----------- | --------- |
-| Warrior | Law         | 4         |
-| Warrior | Chaos       | 3         | 
+| Warrior | Law         | 3         |
+| Warrior | Chaos       | 3         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |
-| 1     | 1       |
+| 1     | 3       |
 | 2     | ?       |
 | 3     | ?       |
-| 4     | ?        |
 
 #skill 

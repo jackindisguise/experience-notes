@@ -1,8 +1,9 @@
+>[!summary]
 >Enter "Focus" State.
 >Accuracy +25%
 >State ceases once a skill is used.
 
->Additional Information:
+>[!info] Additional Information
 >Focus is automatically learned after
 >acquiring a skill that requires it.
 # Learned by

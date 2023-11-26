@@ -1,3 +1,4 @@
+>[!summary]
 >Target: Single Enemy (Cost: 5 MP)
 >Damage +100%.
 >Lowers initiative.
@@ -6,6 +7,15 @@
 | ------- | ----------- | --------- |
 | Warrior | Law         | 6         |
 | Warrior | Chaos       | 5         |
-| Warrior |             | ?         |
+| Warrior |             | 3?        |
+# Cost
+| Level | SP Cost |
+| ----- | ------- |
+| 1     | 1       |
+| 2     | ?       |
+| 3     | ?       |
+| 4     | ?       |
+| 5     | ?       |
+| 6     | ?       | 
 
 #skill 

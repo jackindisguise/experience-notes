@@ -1,18 +1,18 @@
 >[!summary]
->Target: Self (Always Active)
->Increases hit rate.
->Accuracy Up +15%.
+>Target: Self (Cost: 9 MP)
+>Gain protect priority for 4 turns.
+>Physical defense +20%.
+>Offensive Ability -50%.
 # Learned by
 | Class   | Enhancement | Max Level |
 | ------- | ----------- | --------- |
-| Warrior | Law         | 4         |
-| Warrior | Chaos       | 3         | 
+| Warrior | Chaos       | 3         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |
-| 1     | 1       |
+| 1     | 4       |
 | 2     | ?       |
 | 3     | ?       |
-| 4     | ?        |
+| 4     | ?       |
 
 #skill 

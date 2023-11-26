@@ -1,18 +1,17 @@
 >[!summary]
 >Target: Self (Always Active)
->Increases hit rate.
->Accuracy Up +15%.
+>Sometimes counterattack when protecting.
+>60% Minimum Chance Rate.
+>Chance increases with Speed and Luck.
 # Learned by
 | Class   | Enhancement | Max Level |
 | ------- | ----------- | --------- |
-| Warrior | Law         | 4         |
-| Warrior | Chaos       | 3         | 
+| Warrior | Chaos       | 3         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |
-| 1     | 1       |
+| 1     | 4       |
 | 2     | ?       |
 | 3     | ?       |
-| 4     | ?        |
 
 #skill 

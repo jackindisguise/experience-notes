@@ -1,3 +1,4 @@
+>[!summary]
 >Target: Single Enemy (Cost: 6 MP)
 >Damage +80%.
 >Damage dealt to enemies on either side.
@@ -7,6 +8,6 @@
 | ------- | ----------- | --------- |
 | Warrior | Law         | 6         |
 | Warrior | Chaos       | 5         |
-| Warrior |             | ?         |
+| Warrior |             | 3?         |
 
 #skill 

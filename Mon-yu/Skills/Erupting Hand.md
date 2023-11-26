@@ -1,18 +1,17 @@
 >[!summary]
->Target: Self (Always Active)
->Increases hit rate.
->Accuracy Up +15%.
+>Target: Single Enemy (Cost: 9 MP)
+>Devastating attack from "Focus" state.
+>Damage +220%.
+>Accuracy -25%.
 # Learned by
 | Class   | Enhancement | Max Level |
 | ------- | ----------- | --------- |
-| Warrior | Law         | 4         |
-| Warrior | Chaos       | 3         | 
+| Knight  | Chaos       | 3         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |
 | 1     | 1       |
 | 2     | ?       |
 | 3     | ?       |
-| 4     | ?        |
 
 #skill 
