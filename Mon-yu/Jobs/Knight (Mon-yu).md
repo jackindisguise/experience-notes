@@ -1,10 +1,11 @@
+>[!info]
 >Knights protect from the vanguard. Wearing heavy armor, they protect against all manner of attacks.
-
-# Specialization
+# Enhancement
+More skills become available after gaining access to [[Job Enhancement]].
 ## Law
-Focusing purely on damage, the warrior gains access to [[Critical Hit]] and [[Attack Priority]].
+???
 ## Chaos
-Splitting focus into attack and defense, the warrior gains access to Knight skills like [[Protect Front Row]] and [[Protect Back Row]].
+???
 # Attributes
 | Attribute    | Starting Value |
 | ------------ | -------------- |
@@ -16,7 +17,7 @@ Splitting focus into attack and defense, the warrior gains access to Knight skil
 | Luck         | 6              |
 
 # Skills
-* [[Focus]] (Chaos only)
+- [[Focus]] (Chaos only)
 - [[Shield Rush]]
 - [[Erupting Hand]] (Chaos only)
 - [[Protect Front Row]]
@@ -26,10 +27,10 @@ Splitting focus into attack and defense, the warrior gains access to Knight skil
 - [[Cure Magic]] (Chaos only)
 - [[Weaken Magic]] (Chaos only)
 - [[Superstrength]] (Chaos only)
-- [[Sword Expertise]]
-- [[Spear Expertise]]
-- [[Hammer Expertise]]
-- [[Shield Expertise]]
+- [[Sword Expertise]] (Enhanced)
+- [[Spear Expertise]] (Enhanced)
+- [[Hammer Expertise]] (Enhanced)
+- [[Shield Expertise]] (Enhanced)
 - [[Healing Spell Expertise]] (Chaos only)
 - [[Aim Expertise]]
 - [[Defensive Counter]] (Chaos only)
@@ -40,4 +41,4 @@ Splitting focus into attack and defense, the warrior gains access to Knight skil
 - [[Divine Dragon Protection]] (Law only)
 - [[Earth Dragon Protection]] (Chaos only)
 
-#class
+#job

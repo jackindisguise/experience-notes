@@ -4,9 +4,9 @@
 >60% Minimum Chance Rate.
 >Chance increases with Speed and Luck.
 # Learned by
-| Class   | Enhancement | Max Level |
-| ------- | ----------- | --------- |
-| Warrior | Chaos       | 3         |
+| Class  | Enhancement | Min. Level | Max Level |
+| ------ | ----------- | ---------- | --------- |
+| Knight | Chaos       |            | 3         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

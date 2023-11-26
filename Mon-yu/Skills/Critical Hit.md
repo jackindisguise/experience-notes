@@ -4,9 +4,9 @@
 >Damage +450%.
 >Accuracy -50%.
 # Learned by
-| Class   | Enhancement | Max Level |
-| ------- | ----------- | --------- |
-| Warrior | Law         | 3         |
+| Class   | Enhancement | Min. Level | Max Level |
+| ------- | ----------- | ---------- | --------- |
+| Warrior | Law         |            | 3          |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

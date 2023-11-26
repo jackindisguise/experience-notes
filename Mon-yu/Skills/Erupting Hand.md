@@ -4,9 +4,9 @@
 >Damage +220%.
 >Accuracy -25%.
 # Learned by
-| Class   | Enhancement | Max Level |
-| ------- | ----------- | --------- |
-| Knight  | Chaos       | 3         |
+| Class  | Enhancement | Min. Level | Max Level |
+| ------ | ----------- | ---------- | --------- |
+| Knight | Chaos       |            | 3         | 
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

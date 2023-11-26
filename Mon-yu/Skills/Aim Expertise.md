@@ -3,10 +3,10 @@
 >Increases hit rate.
 >Accuracy Up +15%.
 # Learned by
-| Class   | Enhancement | Max Level |
-| ------- | ----------- | --------- |
-| Warrior | Law         | 4         |
-| Warrior | Chaos       | 3         | 
+| Class   | Enhancement | Min. Level | Max Level |
+| ------- | ----------- | ---------- | --------- |
+| Warrior | Law         |            | 4         |
+| Warrior | Chaos       |            | 3          |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

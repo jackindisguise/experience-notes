@@ -4,10 +4,10 @@
 >Damage dealt to enemies on either side.
 >Spread damage -20%.
 # Learned by
-| Class   | Enhancement | Max Level |
-| ------- | ----------- | --------- |
-| Warrior | Law         | 6         |
-| Warrior | Chaos       | 5         |
-| Warrior |             | 3?         |
+| Class   | Enhancement | Min. Level | Max Level |
+| ------- | ----------- | ---------- | --------- |
+| Warrior | Law         |            | 6         |
+| Warrior | Chaos       |            | 5         |
+| Warrior |             |            | 3?        | 
 
 #skill 

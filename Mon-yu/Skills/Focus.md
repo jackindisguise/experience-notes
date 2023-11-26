@@ -7,8 +7,8 @@
 >Focus is automatically learned after
 >acquiring a skill that requires it.
 # Learned by
-| Class   | Enhancement | Max Level |
-| ------- | ----------- | --------- |
-| Warrior | Law         | 1         |
+| Class   | Enhancement | Min. Level | Max Level |
+| ------- | ----------- | ---------- | --------- |
+| Warrior | Law         |            | 1         | 
 
 #skill 

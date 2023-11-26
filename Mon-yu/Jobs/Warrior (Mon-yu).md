@@ -1,6 +1,8 @@
+>[!info]
 >Warriors excel in front-row brawling. Using high-powered weapons, they deal massive damage to the enemy.
 
-# Specialization
+# Enhancement
+More skills become available after gaining access to [[Job Enhancement]].
 ## Law
 Focusing purely on damage, the warrior gains access to [[Critical Hit]] and [[Attack Priority]].
 ## Chaos
@@ -38,4 +40,4 @@ Splitting focus into attack and defense, the warrior gains access to Knight skil
 - [[Defense Expertise]] (Chaos only)
 - [[Backline Bastion]] (Chaos only)
 
-#class
+#job

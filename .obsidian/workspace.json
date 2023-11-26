@@ -6,7 +6,7 @@
       {
         "id": "9fb3d25831ae3703",
         "type": "tabs",
-        "dimension": 54.59770114942528,
+        "dimension": 32.54612546125461,
         "children": [
           {
             "id": "2d62cbb01af08bbb",
@@ -14,18 +14,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
+                "file": "Mon-yu/Jobs/Knight (Mon-yu).md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "2c5af1e215ca5653"
+          }
+        ]
+      },
+      {
+        "id": "5f3eb50f64999dca",
+        "type": "tabs",
+        "dimension": 39.040590405904055,
+        "children": [
+          {
+            "id": "8e938059aed6ef23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mon-yu/Jobs/Knight (Mon-yu).md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "2c5af1e215ca5653"
           }
         ]
       },
       {
         "id": "8d13b5c0ecfdb3c1",
         "type": "tabs",
-        "dimension": 45.40229885057471,
+        "dimension": 28.413284132841326,
         "children": [
           {
             "id": "c8c6c5ae9134e381",
@@ -103,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
+                "file": "Mon-yu/Jobs/Knight (Mon-yu).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
+                "file": "Mon-yu/Jobs/Knight (Mon-yu).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md"
+                "file": "Mon-yu/Jobs/Knight (Mon-yu).md"
               }
             }
           },
@@ -160,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,43 +196,43 @@
   },
   "active": "2d62cbb01af08bbb",
   "lastOpenFiles": [
-    "Mon-yu/_DAILY/_QUESTIONS.md",
-    "Mon-yu/_DAILY/_OBSERVATIONS.md",
+    "Mon-yu/Jobs/Warrior (Mon-yu).md",
+    "Mon-yu/Jobs/Knight (Mon-yu).md",
+    "Mon-yu/Jobs/Fighter (Mon-yu).md",
+    "Mon-yu/Jobs/Cleric (Mon-yu).md",
     "Mon-yu/_DAILY/2023-11-23.md",
     "Mon-yu/_DAILY/2023-11-26.md",
-    "Mon-yu/Treasure/Clanniebe.md",
-    "Mon-yu/Treasure/Laevateinn.md",
-    "Mon-yu/Treasure/Gjallarhorn.md",
-    "Mon-yu/Skills/Earth Dragon Protection.md",
-    "Mon-yu/Classes/Knight (Mon-yu).md",
-    "Mon-yu/Skills/Backline Bastion.md",
-    "Mon-yu/Skills/Divine Dragon Protection.md",
-    "Mon-yu/Skills/Reaper Protection.md",
-    "Mon-yu/Skills/Shield Expertise.md",
-    "Mon-yu/Skills/Healing Spell Expertise.md",
-    "Mon-yu/Skills/Healing Qigong.md",
-    "Mon-yu/Skills/Superstrength.md",
-    "Mon-yu/Skills/Sword Expertise.md",
-    "Mon-yu/Skills/Spiral Strike.md",
-    "Mon-yu/Skills/Axe Expertise.md",
-    "Mon-yu/Skills/Attack Priority.md",
-    "Mon-yu/Skills/Healing Magic.md",
-    "Mon-yu/Skills/Cure Magic.md",
     "Mon-yu/Skills/Weaken Magic.md",
+    "Mon-yu/Skills/___.md",
+    "Mon-yu/Skills/index.js",
+    "Mon-yu/Skills/True Grit.md",
+    "Mon-yu/Skills/Aim Expertise.md",
+    "Mon-yu/Skills/Attack Priority.md",
+    "Mon-yu/Skills/Axe Expertise.md",
     "Mon-yu/Skills/Two-Handed Expertise.md",
-    "Mon-yu/Skills/Focus.md",
-    "Mon-yu/Skills/Critical Hit.md",
+    "Mon-yu/Skills/Cure Magic.md",
+    "Mon-yu/Skills/Deadly Blow.md",
+    "Mon-yu/Skills/Defense Expertise.md",
+    "Mon-yu/Skills/Sword Expertise.md",
+    "Mon-yu/Skills/Sure Hit.md",
+    "Mon-yu/Skills/Superstrength.md",
+    "Mon-yu/Skills/Spiral Strike.md",
+    "Mon-yu/Skills/Spear Expertise.md",
+    "Mon-yu/Skills/Shield Rush.md",
+    "Mon-yu/Skills/Shield Expertise.md",
+    "Mon-yu/Skills/Reaper Protection.md",
+    "Mon-yu/Skills/Protect Priority.md",
+    "Mon-yu/Skills/Protect Front Row.md",
     "Mon-yu/Skills",
     "Experience Inc/Mon-yu/Untitled",
     "Experience Inc/Mon-yu/Untitled.canvas",
     "Templates",
-    "Mon-yu/Classes",
+    "Mon-yu/Jobs",
     "Mon-yu/Treasure",
     "Mon-yu/Things",
     "Mon-yu/Groups",
     "Mon-yu/Terminology",
     "Mon-yu/Places",
-    "Mon-yu/People",
     "Experience Inc/Undernauts/Untitled.canvas",
     "Untitled.canvas"
   ]

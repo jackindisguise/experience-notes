@@ -4,10 +4,10 @@
 >Defend Rate 80% / Evasion +50%.
 >Reduce damage received by 10%.
 # Learned by
-| Class   | Enhancement | Max Level |
-| ------- | ----------- | --------- |
-| Knight  | Law         | 4         |
-| Knight  | Chaos       | 3         |
+| Class  | Enhancement | Min. Level | Max Level |
+| ------ | ----------- | ---------- | --------- |
+| Knight | Law         |            | 4         |
+| Knight | Chaos       |            | 3          |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

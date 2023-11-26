@@ -8,12 +8,12 @@
 >At Lv 3 and higher, area of effect is extended to 1 row.
 
 # Learned by
-| Class  | Enhancement | Max Level |
-| ------ | ----------- | --------- |
-| Knight | Chaos       | 3         |
-| Cleric | Law         | ?         |
-| Cleric | Chaos       | ?         |
-| Cleric |             | ?         |
+| Class  | Enhancement | Min. Level | Max Level |
+| ------ | ----------- | ---------- | --------- |
+| Knight | Chaos       |            | 3         |
+| Cleric | Law         |            | ?         |
+| Cleric | Chaos       |            | ?         |
+| Cleric |             |            | ?         | 
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

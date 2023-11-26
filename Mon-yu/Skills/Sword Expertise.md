@@ -3,10 +3,12 @@
 >Increases power of Swords.
 >Weapon Attack Power +5%.
 # Learned by
-| Class   | Enhancement | Max Level |
-| ------- | ----------- | --------- |
-| Warrior | Law         | 3         |
-| Warrior | Chaos       | 3         |
+| Class   | Enhancement | Min. Level | Max Level |
+| ------- | ----------- | ---------- | --------- |
+| Warrior | Law         |            | 3         |
+| Warrior | Chaos       |            | 3         |
+| Knight  | Law         |            | 3         |
+| Knight  | Chaos       |            | 3         | 
 # Cost
 | Level | SP Cost |
 | ----- | ------- |
