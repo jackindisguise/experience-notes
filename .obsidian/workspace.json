@@ -10,15 +10,13 @@
           {
             "id": "2d62cbb01af08bbb",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -30,13 +28,15 @@
           {
             "id": "4b2e1320215522dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/Jobs/Cleric (Mon-yu).md",
+                "file": "Mon-yu/Skills/Butterfly & Bee.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/Jobs/Cleric (Mon-yu).md",
+                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/Jobs/Cleric (Mon-yu).md",
+                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mon-yu/Jobs/Cleric (Mon-yu).md"
+                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md"
               }
             }
           },
@@ -174,15 +174,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b2e1320215522dc",
+  "active": "2d62cbb01af08bbb",
   "lastOpenFiles": [
+    "Mon-yu/Skills/Seize Initiative.md",
     "Mon-yu/Jobs/Samurai (Mon-yu).md",
-    "Mon-yu/Jobs/Advancement",
+    "Mon-yu/Skills/Butterfly & Bee.md",
     "Mon-yu/Jobs/Warrior (Mon-yu).md",
+    "Mon-yu/Jobs/Ninja (Mon-yu).md",
+    "Mon-yu/Skills/Counterattack.md",
+    "Mon-yu/Skills/Cyclone Strike.md",
+    "Mon-yu/Skills/Advancement - Dual Wield.md",
+    "Mon-yu/Jobs/Cleric (Mon-yu).md",
+    "Mon-yu/Jobs/Advancement",
     "Mon-yu/Skills/Bat Swipe.md",
     "Mon-yu/Skills/Summer-Rain Slash.md",
-    "Mon-yu/Jobs/Ninja (Mon-yu).md",
-    "Mon-yu/Skills/Butterfly & Bee.md",
     "Mon-yu/Skills/Bee Sting.md",
     "Mon-yu/Jobs/Mage (Mon-yu).md",
     "Mon-yu/Skills/Magic Power Up.md",
@@ -191,7 +196,6 @@
     "Mon-yu/Skills/Divine Dragon Protection.md",
     "Mon-yu/Jobs/Gunslinger (Mon-yu).md",
     "Mon-yu/Jobs/Fighter (Mon-yu).md",
-    "Mon-yu/Jobs/Cleric (Mon-yu).md",
     "Mon-yu/Skills/Earth Dragon Protection.md",
     "Mon-yu/Skills/Evasion Expertise.md",
     "Mon-yu/Skills/Illusion Jutsu.md",
@@ -199,9 +203,6 @@
     "Mon-yu/Skills/Whirlwind Qigong.md",
     "Mon-yu/Skills/Critical Hit.md",
     "Mon-yu/Skills/Two-Handed Expertise.md",
-    "Mon-yu/Skills/Cyclone Fist.md",
-    "Mon-yu/Skills/Fang Break.md",
-    "Mon-yu/Skills/Defense Expertise.md",
     "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",
     "Experience Inc/Mon-yu/Untitled",

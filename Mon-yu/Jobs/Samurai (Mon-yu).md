@@ -17,9 +17,9 @@ aliases:
 # Enhancement
 More skills become available after gaining access to [[Job Enhancement]].
 ## Law
-???
+The Samurai becomes a much more effective damage dealer with [[Advancement - Dual Wield]], and gains potent self-healing with [[Bat Swipe]], healing off of the damage they deal.
 ## Chaos
-???
+The Samurai becomes somewhat of a Ninja-Warrior-Fighter-Samurai combination, becoming impossible to hit with [[Cicada Shell Jutsu]], [[Evasion Expertise]], and [[Illusion Jutsu]], and getting an extreme amount of free attacks with [[Follow-Up Strike]] and [[Butterfly & Bee]].
 # Skills
 |            Skill            | Requirement | Level |
 |:---------------------------:|:-----------:|:-----:|
@@ -33,7 +33,7 @@ More skills become available after gaining access to [[Job Enhancement]].
 |     [[Sword Expertise]]     | Enhancement |   1   |
 |    [[Katana Expertise]]     | Enhancement |   1   |
 |        [[Bat Swipe]]        |     Law     |  20   |
-| [[Advancement\: Dual Wield]] |     Law     |  25   |
+| [[Advancement - Dual Wield]] |     Law     |  25   |
 |     [[Cyclone Strike]]      |     Law     |  30   |
 |   [[Meet your Haymaker]]    |    Chaos    |   1   |
 |      [[Twister Fist]]       |    Chaos    |   1   |

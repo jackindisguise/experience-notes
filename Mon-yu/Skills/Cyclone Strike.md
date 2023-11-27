@@ -4,9 +4,10 @@
 >Damage -60%.
 >Greatly decrease own defense.
 # Learned by
-| Job   | Enhancement | Req. Level | Level Cap |
+|   Job   | Enhancement | Req. Level | Level Cap |
 |:-------:|:-----------:|:----------:|:---------:|
-| Fighter | Chaos       | 20         | 3         |
+| Samurai |     Law     |     30     |     3     | 
+| Fighter |    Chaos    |     20     |     3     |
 # Cost
 | Level | SP Cost |
 |:-----:|:-------:|
