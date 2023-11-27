@@ -4,15 +4,16 @@
 >30% Chance Rate.
 >Chance increases with Strength and Luck.
 # Learned by
-| Class   | Enhancement | Min. Level | Max Level |
-| ------- | ----------- | ---------- | --------- |
-| Warrior | Law         |            | 5         |
-| Warrior | Chaos       |            | 4         |
-| Warrior |             |            | 3?        | 
+| Class    | Enhancement | Required Character Level | Max Skill Level |
+| -------- | ----------- | ------------------------ | --------------- |
+| †Warrior |             | 1                        | 3               |
+| Warrior  | Law         | 1                        | 5               |
+| Warrior  | Chaos       | 1                        | 4               |
+| Samurai  | Chaos       | 1                        | 3               | 
 # Cost
 | Level | SP Cost |
 | ----- | ------- |
-| 1     | 0†      |
+| 1     | 1      |
 | 2     | 2       |
 | 3     | ?       |
 | 4     | ?       |

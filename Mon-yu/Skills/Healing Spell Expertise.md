@@ -3,9 +3,10 @@
 >Increases recovery of healing spells.
 >HP Recovery +20%.
 # Learned by
-| Class  | Enhancement | Min. Level | Max Level |
-| ------ | ----------- | ---------- | --------- |
-| Knight | Chaos       |            | 3          |
+| Class  | Enhancement | Required Character Level | Max Skill Level |
+| ------ | ----------- | ------------------------ | --------------- |
+| Knight | Chaos       | 1                        | 3               |
+| Cleric | Law         | 1                        | 3                |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

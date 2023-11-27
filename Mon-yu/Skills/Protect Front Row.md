@@ -4,12 +4,12 @@
 >Defend Rate 70% / Evasion +50%.
 >Defense rate halved if in back row.
 # Learned by
-| Class   | Enhancement | Min. Level | Max Level |
+| Class   | Enhancement | Required Character Level | Max Skill Level |
 | ------- | ----------- | ---------- | --------- |
-| Warrior | Chaos       |            | 4         |
-| Knight  | Law         |            | 6         |
-| Knight  | Chaos       |            | 5         |
-| Knight  |             |            | 3?        | 
+| Warrior | Chaos       | 2          | 4         |
+| Knight  | Law         | 2          | 6         |
+| Knight  | Chaos       | 2          | 5         |
+| Knight  |             | 2          | 4         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

@@ -3,11 +3,11 @@
 >Damage +100%.
 >Lowers initiative.
 # Learned by
-| Class   | Enhancement | Min. Level | Max Level |
+| Class   | Enhancement | Required Character Level | Max Skill Level |
 | ------- | ----------- | ---------- | --------- |
-| Warrior | Law         |            | 6         |
-| Warrior | Chaos       |            | 5         |
-| Warrior |             |            | 3?        |
+| Warrior |             | 2          | 4         | 
+| Warrior | Law         | 2          | 6         |
+| Warrior | Chaos       | 2          | 5         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

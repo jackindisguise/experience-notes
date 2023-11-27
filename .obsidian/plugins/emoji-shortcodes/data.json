@@ -4,6 +4,11 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":arrow_up_small:",
+    ":arrow_down_small:",
+    ":arrow_down:",
+    ":small_red_triangle_down:",
+    ":arrow_up:",
     ":thumbsup:"
   ]
 }

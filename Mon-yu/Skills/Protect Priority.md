@@ -4,9 +4,9 @@
 >Physical defense +20%.
 >Offensive Ability -50%.
 # Learned by
-| Class   | Enhancement | Min. Level | Max Level |
+| Class   | Enhancement | Required Character Level | Max Skill Level |
 | ------- | ----------- | ---------- | --------- |
-| Warrior | Chaos       |            | 3         | 
+| Warrior | Chaos       | 20         | 3         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

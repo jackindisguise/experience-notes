@@ -4,11 +4,11 @@
 > Damage rises with level of shield.
 > Stun rate +5%.
 # Learned by
-| Class  | Enhancement | Min. Level | Max Level |
+| Class  | Enhancement | Required Character Level | Max Skill Level |
 | ------ | ----------- | ---------- | --------- |
-| Knight | Law         |            | 5         |
-| Knight | Chaos       |            | 4         |
-| Knight |             |            | 3?        | 
+| Knight | Law         | 7          | 5         |
+| Knight | Chaos       | 7          | 4         |
+| Knight |             | 7          | 3        |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

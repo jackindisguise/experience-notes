@@ -3,10 +3,9 @@
 >Increases power of Two-Handed weapons.
 >Weapon Attack Power +5%.
 # Learned by
-| Class   | Enhancement | Min. Level | Max Level |
+| Class   | Enhancement | Required Character Level | Max Skill Level |
 | ------- | ----------- | ---------- | --------- |
-| Warrior | Law         |            | 3         |
-| Warrior | Chaos       |            | 3          |
+| Warrior | Law         | 25         | 3         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

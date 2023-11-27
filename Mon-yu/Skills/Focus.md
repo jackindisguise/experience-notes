@@ -7,8 +7,10 @@
 >Focus is automatically learned after
 >acquiring a skill that requires it.
 # Learned by
-| Class   | Enhancement | Min. Level | Max Level |
+| Class   | Enhancement | Required Character Level | Max Skill Level |
 | ------- | ----------- | ---------- | --------- |
-| Warrior | Law         |            | 1         | 
+| Warrior | Law         |            | 1         |
+| Knight  | Chaos       |            | 1         |
+| Fighter |             |            | 1         | 
 
 #skill 

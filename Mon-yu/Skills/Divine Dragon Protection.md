@@ -3,9 +3,10 @@
 >+5% Resistance to physical and magical attacks.
 >Reduced mortality from instant death spells.
 # Learned by
-| Class  | Enhancement | Min. Level | Max Level |
-| ------ | ----------- | ---------- | --------- |
-| Knight | Law         |            | 3         |
+| Class  | Enhancement | Required Character Level | Max Skill Level |
+| ------ | ----------- | ------------------------ | --------------- |
+| Knight | Law         | 20                       | 3               |
+| Cleric | Chaos       | 20                       | 3               |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

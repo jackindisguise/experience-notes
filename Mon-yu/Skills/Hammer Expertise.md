@@ -3,10 +3,12 @@
 >Increases power of Hammers.
 >Weapon Attack Power +5%.
 # Learned by
-| Class   | Enhancement | Min. Level | Max Level |
-| ------- | ----------- | ---------- | --------- |
-| Warrior | Law         |            | 3         |
-| Warrior | Chaos       |            | 3          |
+| Class   | Enhancement | Required Character Level | Max Skill Level |
+| ------- | ----------- | ------------------------ | --------------- |
+| Warrior | Law/Chaos   | 1                        | 3               |
+| Knight  | Law/Chaos   | 1                        | 3               |
+| Fighter | Law/Chaos   | 1                        | 3               |
+| Cleric  | Law/Chaos   | 1                        | 3               |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

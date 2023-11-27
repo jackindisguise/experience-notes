@@ -5,12 +5,12 @@
 >[!info] Additional Information
 >At Lv 4 and higher, area of effect is extended to all allies.
 # Learned by
-| Class  | Enhancement | Min. Level | Max Level |
-| ------ | ----------- | ---------- | --------- |
-| Knight | Chaos       |            | 3         |
-| Cleric | Law         |            | ?         |
-| Cleric | Chaos       |            | ?         |
-| Cleric |             |            | ?         | 
+| Class  | Enhancement | Required Character Level | Max Skill Level |
+| ------ | ----------- | ------------------------ | --------------- |
+| Knight | Chaos       | 3                        | 3               |
+| Cleric | Law         | 3                        | ?               |
+| Cleric | Chaos       | 3                        | ?               |
+| Cleric |             | 3                        | ?               |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

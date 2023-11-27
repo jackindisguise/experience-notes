@@ -6,7 +6,6 @@
       {
         "id": "9fb3d25831ae3703",
         "type": "tabs",
-        "dimension": 32.54612546125461,
         "children": [
           {
             "id": "2d62cbb01af08bbb",
@@ -14,47 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/Jobs/Knight (Mon-yu).md",
+                "file": "Mon-yu/Skills/Divine Dragon Protection.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "2c5af1e215ca5653"
+            }
           }
         ]
       },
       {
-        "id": "5f3eb50f64999dca",
+        "id": "7003b69bdfe6ea7f",
         "type": "tabs",
-        "dimension": 39.040590405904055,
         "children": [
           {
-            "id": "8e938059aed6ef23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mon-yu/Jobs/Knight (Mon-yu).md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "2c5af1e215ca5653"
-          }
-        ]
-      },
-      {
-        "id": "8d13b5c0ecfdb3c1",
-        "type": "tabs",
-        "dimension": 28.413284132841326,
-        "children": [
-          {
-            "id": "c8c6c5ae9134e381",
+            "id": "2dc1dba83722c715",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mon-yu/Jobs/Cleric (Mon-yu).md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true
             }
           }
@@ -87,11 +68,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#skill",
+                "query": "Cicada",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -124,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/Jobs/Knight (Mon-yu).md",
+                "file": "Mon-yu/Skills/Divine Dragon Protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/Jobs/Knight (Mon-yu).md",
+                "file": "Mon-yu/Skills/Divine Dragon Protection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mon-yu/Jobs/Knight (Mon-yu).md"
+                "file": "Mon-yu/Skills/Divine Dragon Protection.md"
               }
             }
           },
@@ -190,39 +171,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "2d62cbb01af08bbb",
   "lastOpenFiles": [
-    "Mon-yu/Jobs/Warrior (Mon-yu).md",
-    "Mon-yu/Jobs/Knight (Mon-yu).md",
-    "Mon-yu/Jobs/Fighter (Mon-yu).md",
     "Mon-yu/Jobs/Cleric (Mon-yu).md",
-    "Mon-yu/_DAILY/2023-11-23.md",
-    "Mon-yu/_DAILY/2023-11-26.md",
-    "Mon-yu/Skills/Weaken Magic.md",
-    "Mon-yu/Skills/___.md",
-    "Mon-yu/Skills/index.js",
+    "Mon-yu/Skills/Earth Dragon Protection.md",
+    "Mon-yu/Skills/Divine Dragon Protection.md",
+    "Mon-yu/Skills/Healing Spell Expertise.md",
+    "Mon-yu/Skills/Divine Regeneration.md",
+    "Mon-yu/Skills/Bestow MP.md",
+    "Mon-yu/Jobs/Magic Barrier.md",
+    "Mon-yu/Skills/Quick.md",
+    "Mon-yu/Skills/Hunter's Eye.md",
     "Mon-yu/Skills/True Grit.md",
-    "Mon-yu/Skills/Aim Expertise.md",
-    "Mon-yu/Skills/Attack Priority.md",
-    "Mon-yu/Skills/Axe Expertise.md",
-    "Mon-yu/Skills/Two-Handed Expertise.md",
-    "Mon-yu/Skills/Cure Magic.md",
-    "Mon-yu/Skills/Deadly Blow.md",
-    "Mon-yu/Skills/Defense Expertise.md",
-    "Mon-yu/Skills/Sword Expertise.md",
+    "Mon-yu/Skills/Exorcism.md",
+    "Mon-yu/Skills/Magic Power Up.md",
+    "Mon-yu/Skills/Spear Expertise.md",
+    "Mon-yu/Skills/Meet Your Haymaker.md",
+    "Mon-yu/Skills/Shield Expertise.md",
+    "Mon-yu/Skills/Summer-Rain Slash.md",
     "Mon-yu/Skills/Sure Hit.md",
     "Mon-yu/Skills/Superstrength.md",
-    "Mon-yu/Skills/Spiral Strike.md",
-    "Mon-yu/Skills/Spear Expertise.md",
-    "Mon-yu/Skills/Shield Rush.md",
-    "Mon-yu/Skills/Shield Expertise.md",
-    "Mon-yu/Skills/Reaper Protection.md",
-    "Mon-yu/Skills/Protect Priority.md",
-    "Mon-yu/Skills/Protect Front Row.md",
+    "Mon-yu/Skills/High Healing Magic.md",
+    "Mon-yu/Skills/Healing Magic.md",
+    "Mon-yu/Skills/Light Magic.md",
+    "Mon-yu/Skills/Ice Magic.md",
+    "Mon-yu/Skills/Earth Magic.md",
+    "Mon-yu/Skills/Cure Magic.md",
+    "Mon-yu/Skills/Counterattack.md",
+    "Mon-yu/Skills/Healing Qigong.md",
+    "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",
     "Experience Inc/Mon-yu/Untitled",
     "Experience Inc/Mon-yu/Untitled.canvas",

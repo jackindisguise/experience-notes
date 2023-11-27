@@ -3,11 +3,12 @@
 >Increases physical defense of Shields.
 >Shield Physical Defense Power +10.
 # Learned by
-| Class   | Enhancement | Min. Level | Max Level |
-| ------- | ----------- | ---------- | --------- |
-| Warrior | Chaos       |            | 3         |
-| Knight  | Law         |            | 3         |
-| Knight  | Chaos       |            | 3          |
+| Class   | Enhancement | Required Character Level | Max Skill Level |
+| ------- | ----------- | ------------------------ | --------------- |
+| Warrior | Chaos       | 1                        | 3               |
+| Knight  | Law         | 1                        | 3               |
+| Knight  | Chaos       | 1                        | 3               |
+| Cleric  | Chaos       | 1                        | 3               | 
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

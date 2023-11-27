@@ -3,12 +3,11 @@
 >Increases power of Swords.
 >Weapon Attack Power +5%.
 # Learned by
-| Class   | Enhancement | Min. Level | Max Level |
-| ------- | ----------- | ---------- | --------- |
-| Warrior | Law         |            | 3         |
-| Warrior | Chaos       |            | 3         |
-| Knight  | Law         |            | 3         |
-| Knight  | Chaos       |            | 3         | 
+| Class   | Enhancement | Required Character Level | Max Skill Level |
+| ------- | ----------- | ------------------------ | --------------- |
+| Warrior | Law/Chaos   | 1                        | 3               |
+| Knight  | Law/Chaos   | 1                        | 3               |
+| Samurai | Law/Chaos   | 1                        | 3               |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

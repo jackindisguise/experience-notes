@@ -1,11 +1,5 @@
 >[!info]
 >Knights protect from the vanguard. Wearing heavy armor, they protect against all manner of attacks.
-# Enhancement
-More skills become available after gaining access to [[Job Enhancement]].
-## Law
-???
-## Chaos
-???
 # Attributes
 | Attribute    | Starting Value |
 | ------------ | -------------- |
@@ -15,30 +9,40 @@ More skills become available after gaining access to [[Job Enhancement]].
 | Vitality     | 11             |
 | Agility      | 5              |
 | Luck         | 6              |
-
+# Enhancement
+More skills become available after gaining access to [[Job Enhancement]].
+## Law
+???
+## Chaos
+???
 # Skills
-- [[Focus]] (Chaos only)
-- [[Shield Rush]]
-- [[Erupting Hand]] (Chaos only)
-- [[Protect Front Row]]
-- [[Protect Back Row]]
-- [[Protect All]]
-- [[Healing Magic]] (Chaos only)
-- [[Cure Magic]] (Chaos only)
-- [[Weaken Magic]] (Chaos only)
-- [[Superstrength]] (Chaos only)
-- [[Sword Expertise]] (Enhanced)
-- [[Spear Expertise]] (Enhanced)
-- [[Hammer Expertise]] (Enhanced)
-- [[Shield Expertise]] (Enhanced)
-- [[Healing Spell Expertise]] (Chaos only)
-- [[Aim Expertise]]
-- [[Defensive Counter]] (Chaos only)
-- [[Healing Qigong]] (Chaos only)
-- [[Defense Expertise]]
-- [[Backline Bastion]]
-- [[Reaper Protection]] (Law only)
-- [[Divine Dragon Protection]] (Law only)
-- [[Earth Dragon Protection]] (Chaos only)
+|            Skill             | Requirement | Level |
+|:----------------------------:|:-----------:|:-----:|
+|      [[Aim Expertise]]       |             |   1   |
+|    †[[Defense Expertise]]    |             |   1   |
+|    [[Protect Front Row]]     |             |   2   |
+|     [[Protect Back Row]]     |             |   5   |
+|       [[Shield Rush]]        |             |   7   |
+|     [[Backline Bastion]]     |             |  10   |
+|     [[Sword Expertise]]      | Enhancement |   1   |
+|     [[Spear Expertise]]      | Enhancement |   1   |
+|     [[Hammer Expertise]]     | Enhancement |   1   |
+|     [[Shield Expertise]]     | Enhancement |   1   |
+|       [[Protect All]]        | Enhancement |  25   |
+|          [[Focus]]           |    Chaos    |   0   |
+|      [[Healing Magic]]       |    Chaos    |   1   |
+| [[Healing Spell Expertise]]  |    Chaos    |   1   |
+|      [[Healing Qigong]]      |    Chaos    |   1   |
+|      [[Erupting Hand]]       |    Chaos    |   2   |
+|        [[Cure Magic]]        |    Chaos    |   3   |
+| [[Earth Dragon Protection]]  |    Chaos    |   7   |
+|       [[Weaken Magic]]       |    Chaos    |  20   |
+|      [[Superstrength]]       |    Chaos    |  20   |
+|    [[Defensive Counter]]     |    Chaos    |  30   |
+| [[Divine Dragon Protection]] |     Law     |  20   |
+|    [[Reaper Protection]]     |     Law     |  30   |
+
+> [!note] Note (†)
+> Knights start with 1 point in **Defense Expertise**.
 
 #job

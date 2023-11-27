@@ -3,9 +3,9 @@
 >Two-Handed weapons can be equipped in the right hand.
 >Accuracy & Evasion -20%.
 # Learned by
-| Class  | Enhancement | Min. Level | Max Level |
+| Class  | Enhancement | Required Character Level | Max Skill Level |
 | ------ | ----------- | ---------- | --------- |
-| Knight | Chaos       |            | 3         | 
+| Knight | Chaos       | 20         | 3         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

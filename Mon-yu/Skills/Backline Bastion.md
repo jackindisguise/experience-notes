@@ -4,10 +4,12 @@
 >10% Chance Rate.
 >Chance increases with Speed.
 # Learned by
-| Class   | Enhancement | Min. Level | Max Level |
+| Class   | Enhancement | Required Character Level | Max Skill Level |
 | ------- | ----------- | ---------- | --------- |
-| Warrior | Chaos       |            | 4         |
-| Warrior | Law         |            | 5         |
+| Warrior | Chaos       | 10         | 3         |
+| Knight  |             | 10         | 3         |
+| Knight  | Law         | 10         |           |
+| Knight  | Chaos       | 10         |           |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

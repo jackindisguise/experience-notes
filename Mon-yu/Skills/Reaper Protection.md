@@ -3,9 +3,9 @@
 >Protects against instant death.
 >Complete protection.
 # Learned by
-| Class  | Enhancement | Min. Level | Max Level |
+| Class  | Enhancement | Required Character Level | Max Skill Level |
 | ------ | ----------- | ---------- | --------- |
-| Knight | Law         |            | 1          |
+| Knight | Law         | 30         | 1         |
 # Cost
 | Level | SP Cost |
 | ----- | ------- |

@@ -3,11 +3,11 @@
 >Attacks 1-3 times in succession.
 >Damage -20%.
 # Learned by
-| Class   | Enhancement | Min. Level | Max Level |
+| Class   | Enhancement | Required Character Level | Max Skill Level |
 | ------- | ----------- | ---------- | --------- |
-| Warrior | Law         |            | 5         |
-| Warrior | Chaos       |            | 4         |
-| Warrior |             |            | 3?        | 
+| Warrior | Law         | 10         | 5         |
+| Warrior | Chaos       | 10         | 4         |
+| Warrior |             | 10         | 3         | 
 # Cost
 | Level | SP Cost |
 | ----- | ------- |
