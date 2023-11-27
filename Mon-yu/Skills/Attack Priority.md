@@ -4,12 +4,12 @@
 >Offensive ability +20%.
 >Physical Defense -50%.
 # Learned by
-| Class   | Enhancement | Required Character Level | Max Skill Level |
-| ------- | ----------- | --------- | --------- |
-| Warrior | Law         | 20          | 3         |
+|              Job              | Enhancement | Req. Level | Level Cap |
+|:-----------------------------:|:-----------:|:----------:|:---------:|
+| [[Warrior (Mon-yu)\|Warrior]] |     Law     |     20     |     3     |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 4       |
 | 2     | ?       |
 | 3     | ?       |

@@ -4,12 +4,12 @@
 >Damage -60%.
 >Greatly decrease own defense.
 # Learned by
-| Class   | Enhancement | Required Character Level | Max Skill Level |
-| ------- | ----------- | ---------- | --------- |
+| Job   | Enhancement | Req. Level | Level Cap |
+|:-------:|:-----------:|:----------:|:---------:|
 | Fighter | Chaos       | 20         | 3         |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 4       | 
 | 2     | ?       |
 | 3     | ?       |

@@ -4,12 +4,13 @@
 >Damage +80%.
 >Enemy Attack -10%.
 # Learned by
-| Class   | Enhancement | Required Character Level | Max Skill Level |
-| ------- | ----------- | ---------- | --------- |
-| Fighter | Chaos       | 20         | 3         |
+|    Job     | Enhancement | Req. Level | Level Cap |
+|:----------:|:-----------:|:----------:|:---------:|
+|  Fighter   |    Chaos    |     20     |     3     |
+| Gunslinger |    Chaos    |     20     |     3     | 
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 4       | 
 | 2     | ?       |
 | 3     | ?       |

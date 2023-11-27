@@ -1,3 +1,7 @@
+---
+aliases:
+  - Samurai
+---
 >[!info]
 >Samurai use deadly sword strikes.
 >Though bad at defense, they are agile and use techniques like dual wielding.
@@ -17,8 +21,8 @@ More skills become available after gaining access to [[Job Enhancement]].
 ## Chaos
 ???
 # Skills
-|            Skill            |             | Level |
-|:---------------------------:| ----------- |:-----:|
+|            Skill            | Requirement | Level |
+|:---------------------------:|:-----------:|:-----:|
 |       †[[Dual Wield]]        |             |   1   |
 |  [[Strength in Adversity]]  |             |   1   |
 |      [[Aim Expertise]]      |             |   1   |
@@ -28,17 +32,17 @@ More skills become available after gaining access to [[Job Enhancement]].
 |    [[Dagger Expertise]]     | Enhancement |   1   |
 |     [[Sword Expertise]]     | Enhancement |   1   |
 |    [[Katana Expertise]]     | Enhancement |   1   |
-|   [[Meet your Haymaker]]    | Chaos       |   1   |
-|      [[Twister Fist]]       | Chaos       |   1   |
-|     [[Illusion Jutsu]]      | Chaos       |   1   |
-|    [[Follow-Up Strike]]     | Chaos       |   1   |
-|   [[Cicada Shell Jutsu]]    | Chaos       |   1   |
-|    [[Seize Initiative]]     | Chaos       |  20   |
-|     [[Butterfly & Bee]]     | Chaos       |  20   |
-|    [[Evasion Expertise]]    | Chaos       |  20   |
-|        [[Bat Swipe]]        | Law         |  20   |
-| [[Advancement: Dual Wield]] | Law         |  25   |
-|     [[Cyclone Strike]]      | Law         |  30   |
+|        [[Bat Swipe]]        |     Law     |  20   |
+| [[Advancement\: Dual Wield]] |     Law     |  25   |
+|     [[Cyclone Strike]]      |     Law     |  30   |
+|   [[Meet your Haymaker]]    |    Chaos    |   1   |
+|      [[Twister Fist]]       |    Chaos    |   1   |
+|     [[Illusion Jutsu]]      |    Chaos    |   1   |
+|    [[Follow-Up Strike]]     |    Chaos    |   1   |
+|   [[Cicada Shell Jutsu]]    |    Chaos    |   1   |
+|    [[Seize Initiative]]     |    Chaos    |  20   |
+|     [[Butterfly & Bee]]     |    Chaos    |  20   |
+|    [[Evasion Expertise]]    |    Chaos    |  20   |
 
 > [!note] Note (†)
 > Samurai start with 1 point in **Dual Wield**.

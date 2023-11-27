@@ -4,12 +4,12 @@
 >Magic effectiveness +50%.
 >Continues throughout battle.
 # Learned by
-| Class  | Enhancement | Required Character Level | Max Skill Level |
-| ------ | ----------- | ------------------------ | --------------- |
+| Job  | Enhancement | Req. Level | Level Cap |
+|:------:|:-----------:|:------------------------:|:---------------:|
 | Cleric | Chaos       | 9                        | 3                |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 1       |
 | 2     | ?       |
 | 3     | ?       |

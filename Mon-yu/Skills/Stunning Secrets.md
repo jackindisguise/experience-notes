@@ -3,12 +3,12 @@
 >Physical attacks more likely to stun.
 >Stun Rate +5%.
 # Learned by
-| Class   | Enhancement | Required Character Level | Max Skill Level |
-| ------- | ----------- | ---------- | --------- |
+| Job   | Enhancement | Req. Level | Level Cap |
+|:-------:|:-----------:|:----------:|:---------:|
 | Fighter | Law         | 30         | 3         |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 4       |
 | 2     | ?       |
 | 3     | ?       |

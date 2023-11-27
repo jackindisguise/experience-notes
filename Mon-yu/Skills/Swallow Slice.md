@@ -4,13 +4,13 @@
 >Accuracy +25%.
 >Initiative Up.
 # Learned by
-| Class   | Enhancement | Required Character Level | Max Skill Level |
-| ------- | ----------- | ------------------------ | --------------- |
-| Fighter | Chaos       | 2                        | 3               |
-| Samurai |             | 2                        | 3               |
+|   Job   | Enhancement | Req. Level | Level Cap |
+|:-------:|:-----------:|:----------:|:---------:|
+| Samurai |             |     2      |     3     |
+| Fighter |    Chaos    |     2      |     3     |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 1       | 
 | 2     | ?       |
 | 3     | ?       |

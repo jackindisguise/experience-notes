@@ -3,15 +3,16 @@
 >Increases evasion rate.
 >Evasion +15%.
 # Learned by
-| Class   | Enhancement | Required Character Level | Max Skill Level |
-| ------- | ----------- | ------------------------ | --------------- |
-| Samurai | Chaos       | 20                       | 3               | 
+|    Job     | Enhancement | Req. Level | Level Cap |
+|:----------:|:-----------:|:----------:|:---------:|
+|  Samurai   |    Chaos    |     20     |     3     |
+| Gunslinger |    Chaos    |     20     |     3     |
+|   Ninja    |    Chaos    |     20     |     3     | 
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 4       | 
 | 2     | ?       |
 | 3     | ?       |
-| 4     | ?       |
 
 #skill 

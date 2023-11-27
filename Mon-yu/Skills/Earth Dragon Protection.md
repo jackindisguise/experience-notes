@@ -2,17 +2,21 @@
 >Target: Self (Always Active)
 >+10% Resistance to abnormalities, including instant death.
 # Learned by
-| Class  | Enhancement | Required Character Level | Max Skill Level |
-| ------ | ----------- | ------------------------ | --------------- |
-| Knight | Chaos       | 7                        | 3               |
-| Cleric |             | 7                        | 5               |
-| Cleric | Law         | 7                        | 5               |
-| Cleric | Chaos       | 7                        | 4               | 
+|    Job     | Enhancement | Req. Level | Level Cap |
+|:----------:|:-----------:|:----------:|:---------:|
+|   Cleric   |             |     7      |     3     |
+|   Cleric   |    Chaos    |     7      |     4     |
+|   Cleric   |     Law     |     7      |     5     |
+|   Knight   |    Chaos    |     7      |     3     |
+| Gunslinger |    Chaos    |     7      |     3     | 
+
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
-| 1     | 1       |
-| 2     | ?       |
-| 3     | ?       | 
+|:-----:|:-------:|
+|   1   |    1    |
+|   2   |    ?    |
+|   3   |    ?    |
+|   4   |    ?    |
+|   5   |    ?    | 
 
 #skill 

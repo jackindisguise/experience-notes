@@ -3,14 +3,14 @@
 >Kills enemies instantly if successful.
 >Deals damage to Undead enemies.
 # Learned by
-| Class  | Enhancement | Required Character Level | Max Skill Level |
-| ------ | ----------- | ------------------------ | --------------- |
+| Job  | Enhancement | Req. Level | Level Cap |
+|:------:|:-----------:|:------------------------:|:---------------:|
 | Cleric |             | 9                        | 3               |
 | Cleric | Chaos       | 9                        | 4               |
 | Cleric | Law         | 9                        | 5               |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 1       |
 | 2     | ?       |
 | 3     | ?       |

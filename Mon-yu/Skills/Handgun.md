@@ -3,12 +3,12 @@
 >Powerful ranged attack.
 >Damage +70%.
 # Learned by
-| Class   | Enhancement | Required Character Level | Max Skill Level |
-| ------- | ----------- | ---------- | --------- |
-| Fighter | Law         | 4          | 6         | 
+|   Job   | Enhancement | Req. Level | Level Cap |
+|:-------:|:-----------:|:----------:|:---------:|
+| Fighter |     Law     |     4      |     6     |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 1       |
 | 2     | ?       |
 | 3     | ?       |

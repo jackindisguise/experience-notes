@@ -4,13 +4,13 @@
 >Defend Rate 80% / Evasion +50%.
 >Reduce damage received by 10%.
 # Learned by
-| Class  | Enhancement | Required Character Level | Max Skill Level |
-| ------ | ----------- | ---------- | --------- |
+| Job  | Enhancement | Req. Level | Level Cap |
+|:------:|:-----------:|:----------:|:---------:|
 | Knight | Law         | 25         | 4         |
 | Knight | Chaos       | 25         | 3         |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 4       |
 | 2     | ?       |
 | 3     | ?       |

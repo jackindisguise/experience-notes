@@ -4,11 +4,10 @@
 >State ceases once a skill is used.
 
 >[!info] Additional Information
->Focus is automatically learned after
->acquiring a skill that requires it.
+>Focus is automatically learned after acquiring a skill that requires it.
 # Learned by
-| Class   | Enhancement | Required Character Level | Max Skill Level |
-| ------- | ----------- | ---------- | --------- |
+| Job   | Enhancement | Req. Level | Level Cap |
+|:-------:|:-----------:|:----------:|:---------:|
 | Warrior | Law         |            | 1         |
 | Knight  | Chaos       |            | 1         |
 | Fighter |             |            | 1         | 

@@ -4,12 +4,16 @@
 >Take normal damage upon evasion fail.
 >Evasion rate +70%.
 # Learned by
-| Class   | Enhancement | Required Character Level | Max Skill Level |
-| ------- | ----------- | ------------------------ | --------------- |
-| Samurai | Chaos       | 1                        | 3                |
+|    Job     | Enhancement | Req. Level | Level Cap |
+|:----------:|:-----------:|:----------:|:---------:|
+|   Ninja    |             |     9      |     3     |
+|   Ninja    |    Chaos    |     9      |     4     |
+|   Ninja    |     Law     |     9      |     5     |
+|  Samurai   |    Chaos    |     9      |     3     |
+| Gunslinger |    Chaos    |     9      |     3     |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 1       |
 | 2     | ?       |
 | 3     | ?       |

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Warrior
+---
 >[!info]
 >Warriors excel in front-row brawling. Using high-powered weapons, they deal massive damage to the enemy.
 # Attributes
@@ -19,7 +23,7 @@ Splitting focus into defense, the warrior gains access to Knight skills like [[P
 |          Skill           | Requirement | Level |
 |:------------------------:|:-----------:|:-----:|
 |    [[Aim Expertise]]     |             |   1   |
-|  †[[Follow-Up Strike]]   |             |   1   |
+|   †[[Follow-Up Strike]]   |             |   1   |
 |     [[Deadly Blow]]      |             |   2   |
 |       [[Sure Hit]]       |             |   4   |
 |    [[Spiral Strike]]     |             |   6   |
@@ -28,6 +32,10 @@ Splitting focus into defense, the warrior gains access to Knight skills like [[P
 |   [[Sword Expertise]]    | Enhancement |   1   |
 |   [[Spear Expertise]]    | Enhancement |   1   |
 |    [[Axe Expertise]]     | Enhancement |   1   |
+|        [[Focus]]         |     Law     |   0   |
+|   [[Attack Priority]]    |     Law     |  20   |
+| [[Two-Handed Expertise]] |     Law     |  25   |
+|     [[Critical Hit]]     |     Law     |  30   |
 |   [[Shield Expertise]]   |    Chaos    |   1   |
 |  [[Defense Expertise]]   |    Chaos    |   1   |
 |  [[Protect Front Row]]   |    Chaos    |   2   |
@@ -35,10 +43,6 @@ Splitting focus into defense, the warrior gains access to Knight skills like [[P
 |   [[Backline Bastion]]   |    Chaos    |  10   |
 |   [[Protect Priority]]   |    Chaos    |  20   |
 |  [[Defensive Counter]]   |    Chaos    |  20   |
-|        [[Focus]]         |     Law     |   0   |
-|   [[Attack Priority]]    |     Law     |  20   |
-| [[Two-Handed Expertise]] |     Law     |  25   |
-|     [[Critical Hit]]     |     Law     |  30   |
 
 > [!note] Note (†)
 > Warriors start with 1 point in **Follow-Up Strike**.

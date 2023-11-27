@@ -4,13 +4,13 @@
 >Creates 1 Barrier.
 >Barrier disappears with enemy attacks.
 # Learned by
-| Class  | Enhancement | Required Character Level | Max Skill Level |
-| ------ | ----------- | ------------------------ | --------------- |
+| Job  | Enhancement | Req. Level | Level Cap |
+|:------:|:-----------:|:------------------------:|:---------------:|
 | Cleric | Law         | 30                       | 3               | 
 
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 4       |
 | 2     | ?       |
 | 3     | ?       |

@@ -4,14 +4,14 @@
 >Recovery rate = 10% of Max HP.
 >Continuous through battle.
 # Learned by
-| Class   | Enhancement | Required Character Level | Max Skill Level |
-| ------- | ----------- | ------------------------ | --------------- |
-| Fighter | Chaos       | 20                       | 3               |
-| Cleric  | Law         | 20                       | 3               |
+|   Job   | Enhancement | Req. Level | Level Cap |
+|:-------:|:-----------:|:----------:|:---------:|
+| Cleric  |     Law     |     20     |     3     |
+| Fighter |    Chaos    |     20     |     3     |
 
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 4       |
 | 2     | ?       |
 | 3     | ?       |

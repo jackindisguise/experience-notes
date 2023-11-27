@@ -1,3 +1,7 @@
+---
+aliases:
+  - Cleric
+---
 >[!info]
 >Clerics use magic to heal comrades. They'll save you in a crisis and bestow advantages during battle with support.
 # Attributes
@@ -12,13 +16,13 @@
 # Enhancement
 More skills become available after gaining access to [[Job Enhancement]].
 ## Law
-???
+Focusing purely on healing and defense, the Cleric gains access to permanent regeneration with [[Divine Regeneration]], and MP healing with [[Bestow MP]].
 ## Chaos
-???
+The Cleric becomes a true jack of all trades, gaining access to physical attacks like [[Summer-Rain Slash]], survival abilities like [[True Grit]], defense abilities like [[Shield Expertise]], and offensive magic like [[Ice Magic]] and [[Earth Magic]..]
 # Skills
 |            Skill             | Requirement | Level |
 |:----------------------------:|:-----------:|:-----:|
-|      [[Healing Magic]]       |             |   1   |
+|      †[[Healing Magic]]       |             |   1   |
 |          [[Quick]]           |             |   2   |
 |        [[Cure Magic]]        |             |   3   |
 |    [[High Healing Magic]]    |             |   6   |

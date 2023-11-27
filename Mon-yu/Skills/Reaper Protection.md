@@ -3,12 +3,12 @@
 >Protects against instant death.
 >Complete protection.
 # Learned by
-| Class  | Enhancement | Required Character Level | Max Skill Level |
-| ------ | ----------- | ---------- | --------- |
+| Job  | Enhancement | Req. Level | Level Cap |
+|:------:|:-----------:|:----------:|:---------:|
 | Knight | Law         | 30         | 1         |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 4       |
 
 #skill 

@@ -4,13 +4,15 @@
 >Damage +80% and above.
 >Greatly decrease own defense.
 # Learned by
-| Class   | Enhancement | Required Character Level | Max Skill Level |
-| ------- | ----------- | ------------------------ | --------------- |
-| Fighter | Chaos       | 10                       | 5               |
-| Samurai |             | 10                       | 4               | 
+|   Job   | Enhancement | Req. Level | Level Cap |
+|:-------:|:-----------:|:----------:|:---------:|
+| [[Fighter (Mon-yu)\|Fighter]] |    Chaos    |     10     |     5     |
+| [[Samurai (Mon-yu)\|Samurai]] |             |     10     |     4     |
+| Samurai |    Chaos    |     10     |     5     |
+| Samurai |     Law     |     10     |     6     |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 1       |
 | 2     | ?       |
 | 3     | ?       |

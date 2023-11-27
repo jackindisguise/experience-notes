@@ -3,14 +3,14 @@
 >Light spell.
 >⬆ to Dark.
 # Learned by
-| Class  | Enhancement | Required Character Level | Max Skill Level |
-| ------ | ----------- | ------------------------ | --------------- |
+| Job  | Enhancement | Req. Level | Level Cap |
+|:------:|:-----------:|:------------------------:|:---------------:|
 | Cleric |             | 7                        | 3               |
 | Cleric | Chaos       | 7                        | 4               | 
 | Cleric | Law         | 7                        | 5               |
 # Cost
 | Level | SP Cost |
-| ----- | ------- |
+|:-----:|:-------:|
 | 1     | 1       |
 | 2     | ?       |
 | 3     | ?       |
