@@ -13,30 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
+                "file": "Mon-yu/_DAILY/2023-11-27.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "19f6c7f7fc923770",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b2e1320215522dc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mon-yu/Skills/Butterfly & Bee.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
             }
           }
         ]
@@ -89,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 200
   },
   "right": {
     "id": "a4fcf206dc3a1ffb",
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
+                "file": "Mon-yu/_DAILY/2023-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
+                "file": "Mon-yu/_DAILY/2023-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md"
+                "file": "Mon-yu/_DAILY/2023-11-27.md"
               }
             }
           },
@@ -162,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,9 +156,11 @@
   },
   "active": "2d62cbb01af08bbb",
   "lastOpenFiles": [
-    "Mon-yu/Skills/Seize Initiative.md",
+    "Mon-yu/_DAILY/2023-11-26.md",
+    "Mon-yu/_DAILY/2023-11-27.md",
     "Mon-yu/Jobs/Samurai (Mon-yu).md",
     "Mon-yu/Skills/Butterfly & Bee.md",
+    "Mon-yu/Skills/Seize Initiative.md",
     "Mon-yu/Jobs/Warrior (Mon-yu).md",
     "Mon-yu/Jobs/Ninja (Mon-yu).md",
     "Mon-yu/Skills/Counterattack.md",
@@ -201,8 +183,6 @@
     "Mon-yu/Skills/Illusion Jutsu.md",
     "Mon-yu/Skills/Mist Veil Jutsu.md",
     "Mon-yu/Skills/Whirlwind Qigong.md",
-    "Mon-yu/Skills/Critical Hit.md",
-    "Mon-yu/Skills/Two-Handed Expertise.md",
     "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",
     "Experience Inc/Mon-yu/Untitled",
