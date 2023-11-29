@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90b2c81e44d8647a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mon-yu/_DAILY/2023-11-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8263fe9a057fe15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -154,17 +179,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d62cbb01af08bbb",
+  "active": "c8263fe9a057fe15",
   "lastOpenFiles": [
+    "Mon-yu/_DAILY/2023-11-27.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "Ray Gigant/README.md",
     "Stranger of Sword City Revisited/README.md",
     "Saviors of Sapphire Wings/README.md",
     "Undernauts - Labyrinth of Yomi/README.md",
-    "README.md",
     "Mon-yu/README.md",
     "Undernauts - Labyrinth of Yomi/Undernauts - Labyrinth of Yomi.md",
     "Mon-yu/_DAILY/2023-11-26.md",
-    "Mon-yu/_DAILY/2023-11-27.md",
     "Undernauts - Labyrinth of Yomi/Skills/Iai Slash.md",
     "Mon-yu/Skills/Barrage.md",
     "Mon-yu/Jobs/Cleric (Mon-yu).md",
@@ -182,7 +208,6 @@
     "Mon-yu/Skills/Bee Sting.md",
     "Mon-yu/Jobs/Mage (Mon-yu).md",
     "Mon-yu/Skills/Magic Power Up.md",
-    "Mon-yu/Skills/Attack Spell Expertise.md",
     "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",
     "Experience Inc/Mon-yu/Untitled",
