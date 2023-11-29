@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demon Gaze/README.md",
+                "file": "Saviors of Sapphire Wings/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demon Gaze/README.md",
+                "file": "Saviors of Sapphire Wings/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demon Gaze/README.md",
+                "file": "Saviors of Sapphire Wings/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demon Gaze/README.md"
+                "file": "Saviors of Sapphire Wings/README.md"
               }
             }
           },
@@ -156,11 +156,11 @@
   },
   "active": "90b2c81e44d8647a",
   "lastOpenFiles": [
-    "Demon Gaze II/README.md",
-    "Demon Gaze/README.md",
-    "Ray Gigant/README.md",
-    "Saviors of Sapphire Wings/README.md",
     "Stranger of Sword City Revisited/README.md",
+    "Saviors of Sapphire Wings/README.md",
+    "Demon Gaze/README.md",
+    "Demon Gaze II/README.md",
+    "Ray Gigant/README.md",
     "Mon-yu/README.md",
     "Mon-yu/Mon-yu.md",
     "Mon-yu/_DAILY/2023-11-29.md",
