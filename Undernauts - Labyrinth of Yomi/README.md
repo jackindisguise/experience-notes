@@ -1,4 +1,4 @@
-![Undernauts](https://static.wikia.nocookie.net/experience-inc/images/d/db/Undernauts_Logo.png)
+![Undernauts](https://static.wikia.nocookie.net/experience-inc/images/5/56/Undernauts_%28Logo%29.png)
 # About
 These are my notes for Undernauts!
 
