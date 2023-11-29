@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ray Gigant/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ray Gigant/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ray Gigant/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ray Gigant/README.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,8 +156,10 @@
   },
   "active": "2d62cbb01af08bbb",
   "lastOpenFiles": [
-    "Undernauts - Labyrinth of Yomi/README.md",
     "Ray Gigant/README.md",
+    "Stranger of Sword City Revisited/README.md",
+    "Saviors of Sapphire Wings/README.md",
+    "Undernauts - Labyrinth of Yomi/README.md",
     "README.md",
     "Mon-yu/README.md",
     "Undernauts - Labyrinth of Yomi/Undernauts - Labyrinth of Yomi.md",
@@ -181,8 +183,6 @@
     "Mon-yu/Jobs/Mage (Mon-yu).md",
     "Mon-yu/Skills/Magic Power Up.md",
     "Mon-yu/Skills/Attack Spell Expertise.md",
-    "Mon-yu/Jobs/Knight (Mon-yu).md",
-    "Mon-yu/Skills/Divine Dragon Protection.md",
     "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",
     "Experience Inc/Mon-yu/Untitled",
