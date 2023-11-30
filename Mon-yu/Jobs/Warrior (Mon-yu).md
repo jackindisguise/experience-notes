@@ -4,6 +4,9 @@ aliases:
 ---
 >[!info]
 >Warriors excel in front-row brawling. Using high-powered weapons, they deal massive damage to the enemy.
+
+# About
+Warriors specialize in alpha damage, having the highest single-hit output of any class in the game via [[Critical Hit]] and [[Two-Handed Expertise]]. They are also the only class able to wield [[Two-Handed Axes]], which have the highest damage scaling of any weapon type in the game. The downside to this high damage output is a lack of accuracy, with their strongest ability having a default -50% accuracy. They're also extremely lacking in any sustainability, with their only defensive skill being [[True Grit]], allowing them to survive a single deadly attack at random.
 # Attributes
 | Attribute    | Starting Value |
 | ------------ | -------------- |

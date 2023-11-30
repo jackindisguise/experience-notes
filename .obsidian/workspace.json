@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saviors of Sapphire Wings/README.md",
+                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Saviors of Sapphire Wings/README.md",
+                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Saviors of Sapphire Wings/README.md",
+                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Saviors of Sapphire Wings/README.md"
+                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md"
               }
             }
           },
@@ -154,10 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90b2c81e44d8647a",
+  "active": "e21428d8b367f646",
   "lastOpenFiles": [
-    "Stranger of Sword City Revisited/README.md",
+    "Mon-yu/Jobs/Knight (Mon-yu).md",
+    "Mon-yu/Skills/Aim Expertise.md",
+    "Mon-yu/Jobs/Samurai (Mon-yu).md",
+    "Mon-yu/Jobs/Warrior (Mon-yu).md",
+    "Mon-yu/Jobs/Fighter (Mon-yu).md",
     "Saviors of Sapphire Wings/README.md",
+    "Stranger of Sword City Revisited/README.md",
     "Demon Gaze/README.md",
     "Demon Gaze II/README.md",
     "Ray Gigant/README.md",
@@ -173,16 +178,11 @@
     "Undernauts - Labyrinth of Yomi/Skills/Iai Slash.md",
     "Mon-yu/Skills/Barrage.md",
     "Mon-yu/Jobs/Cleric (Mon-yu).md",
-    "Mon-yu/Jobs/Samurai (Mon-yu).md",
     "Mon-yu/Skills/Seize Initiative.md",
     "Mon-yu/Skills/Butterfly & Bee.md",
-    "Mon-yu/Jobs/Warrior (Mon-yu).md",
     "Mon-yu/Jobs/Ninja (Mon-yu).md",
     "Mon-yu/Skills/Counterattack.md",
-    "Mon-yu/Skills/Cyclone Strike.md",
-    "Mon-yu/Skills/Advancement - Dual Wield.md",
     "Mon-yu/Jobs/Advancement",
-    "Mon-yu/Skills/Bat Swipe.md",
     "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",
     "Experience Inc/Mon-yu/Untitled",
