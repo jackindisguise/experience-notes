@@ -4,7 +4,8 @@ aliases:
 ---
 >[!info]
 >Ninjas bewilder the enemy in battle.
->They use a variety of attack skills, and excel at defense and evasion.
+>They use a variety of attack skills, and
+>excel at defense and evasion.
 # Attributes
 | Attribute    | Starting Value |
 | ------------ | -------------- |

@@ -4,7 +4,8 @@ aliases:
 ---
 >[!info]
 >Gunslingers target foes with firearms.
->Not as strong as Warriors or Samurai, but highly accurate from a distance.
+>Not as strong as Warriors or Samurai,
+>but highly accurate from a distance.
 # Attributes
 | Attribute    | Starting Value |
 | ------------ | -------------- |

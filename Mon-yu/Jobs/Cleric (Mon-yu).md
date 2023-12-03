@@ -2,7 +2,10 @@
 aliases:
   - Cleric
 ---
- 
+ >[!info]
+>Clerics use magic to heal comrades.
+>They'll save you in a crisis and bestow
+>advantages during battle with support.
 # Attributes
 | Attribute    | Starting Value |
 | ------------ | -------------- |

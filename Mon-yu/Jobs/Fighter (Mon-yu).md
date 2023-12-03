@@ -3,7 +3,9 @@ aliases:
   - Fighter
 ---
 >[!info]
->Fighters strike down the enemy with fists. They use the power of martial arts for ranged attacks and support in battle.
+>Fighters strike down the enemy with fists.
+>They use the power of martial arts for ranged
+>attacks and support in battle.
 # Attributes
 | Attribute    | Starting Value |
 | ------------ | -------------- |

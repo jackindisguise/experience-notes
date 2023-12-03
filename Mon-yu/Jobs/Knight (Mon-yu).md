@@ -3,7 +3,9 @@ aliases:
   - Knight
 ---
 >[!info]
->Knights protect from the vanguard. Wearing heavy armor, they protect against all manner of attacks.
+>Knights protect from the vanguard.
+>Wearing heavy armor, they protect
+>against all manner of attacks.
 # Attributes
 | Attribute    | Starting Value |
 | ------------ | -------------- |

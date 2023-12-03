@@ -4,7 +4,8 @@ aliases:
 ---
 >[!info]
 >Samurai use deadly sword strikes.
->Though bad at defense, they are agile and use techniques like dual wielding.
+>Though bad at defense, they are agile
+>and use techniques like dual wielding.
 # Attributes
 | Attribute    | Starting Value |
 | ------------ | -------------- |

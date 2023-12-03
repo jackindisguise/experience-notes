@@ -4,7 +4,8 @@ aliases:
 ---
 >[!info]
 >Mages attack the enemy with magic.
->The attack from the back row and also give support in battle.
+>The attack from the back row and
+>also give support in battle.
 # Attributes
 | Attribute    | Starting Value |
 | ------------ | -------------- |
