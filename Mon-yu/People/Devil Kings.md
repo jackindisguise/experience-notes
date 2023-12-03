@@ -9,7 +9,7 @@ There are seven Devil Kings:
 3. [[Hel]], ruler of the dead.
 4. [[Surtr]], ruler of the giants.
 5. [[Norn]], ruler of the spirits.
-6. ?
+6. [[Jormungandr]], ruler of the ???.
 7. ?
 
 Apparently there is "a" Devil King (probably #7), which is the leader of the Devil Kings.

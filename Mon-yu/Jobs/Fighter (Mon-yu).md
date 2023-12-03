@@ -28,10 +28,10 @@ Splitting focus into survival and utility, the Fighter gains access to Ninja, Wa
 |     [[Aim Expertise]]     |             |   3   |
 |        [[Handgun]]        |             |   4   |
 |     [[Counterattack]]     |             |   6   |
+|     [[Twister Fist]]      |             |   7   |
 |  [[Meet Your Haymaker]]   |             |  10   |
 |    [[Fist Expertise]]     | Enhancement |   1   |
 |   [[Hammer Expertise]]    | Enhancement |   1   |
-|     [[Twister Fist]]      | Enhancement |   7   |
 |   [[Whirlwind Qigong]]    |     Law     |  20   |
 |     [[Cyclone Fist]]      |     Law     |  25   |
 |   [[Stunning Secrets]]    |     Law     |  30   |

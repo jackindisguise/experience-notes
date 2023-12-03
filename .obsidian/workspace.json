@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
+                "file": "Mon-yu/_DAILY/2023-12-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 583.5
   },
   "right": {
     "id": "a4fcf206dc3a1ffb",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
+                "file": "Mon-yu/_DAILY/2023-12-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md",
+                "file": "Mon-yu/_DAILY/2023-12-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mon-yu/Jobs/Samurai (Mon-yu).md"
+                "file": "Mon-yu/_DAILY/2023-12-3.md"
               }
             }
           },
@@ -154,34 +154,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e21428d8b367f646",
+  "active": "90b2c81e44d8647a",
   "lastOpenFiles": [
-    "Mon-yu/Jobs/Knight (Mon-yu).md",
-    "Mon-yu/Skills/Aim Expertise.md",
+    "Mon-yu/_DAILY/2023-12-2.md",
+    "Mon-yu/_DAILY/2023-12-3.md",
     "Mon-yu/Jobs/Samurai (Mon-yu).md",
-    "Mon-yu/Jobs/Warrior (Mon-yu).md",
+    "Mon-yu/Skills/Cyclone Strike.md",
     "Mon-yu/Jobs/Fighter (Mon-yu).md",
-    "Saviors of Sapphire Wings/README.md",
-    "Stranger of Sword City Revisited/README.md",
-    "Demon Gaze/README.md",
-    "Demon Gaze II/README.md",
-    "Ray Gigant/README.md",
-    "Mon-yu/README.md",
+    "Mon-yu/Skills/Stunning Secrets.md",
+    "Mon-yu/Jobs/Warrior (Mon-yu).md",
+    "Mon-yu/Skills/Onslaught.md",
+    "Mon-yu/Skills/Summer-Rain Slash.md",
+    "Mon-yu/Skills/Twister Fist.md",
+    "Mon-yu/Skills/Meet Your Haymaker.md",
+    "Mon-yu/Treasure/Clanniebe.md",
+    "Mon-yu/People/Devil Kings.md",
+    "Mon-yu/Places/Yggdran.md",
+    "Mon-yu/Treasure/Gjallarhorn.md",
+    "Mon-yu/Treasure/Laevateinn.md",
+    "Mon-yu/Treasure/Mistilteinn.md",
     "Mon-yu/Mon-yu.md",
-    "Mon-yu/_DAILY/2023-11-29.md",
-    "README.md",
-    "Mon-yu/_DAILY/2023-11-26.md",
-    "Mon-yu/_DAILY/2023-11-27.md",
-    "Undernauts - Labyrinth of Yomi/README.md",
-    "Undernauts - Labyrinth of Yomi/Undernauts - Labyrinth of Yomi.md",
-    "conflict-files-obsidian-git.md",
-    "Undernauts - Labyrinth of Yomi/Skills/Iai Slash.md",
-    "Mon-yu/Skills/Barrage.md",
-    "Mon-yu/Jobs/Cleric (Mon-yu).md",
-    "Mon-yu/Skills/Seize Initiative.md",
-    "Mon-yu/Skills/Butterfly & Bee.md",
-    "Mon-yu/Jobs/Ninja (Mon-yu).md",
-    "Mon-yu/Skills/Counterattack.md",
+    "Mon-yu/People/Eternia.md",
+    "Mon-yu/People/Ukaba.md",
+    "Mon-yu/People/Surtr.md",
+    "Mon-yu/People/Okabu.md",
+    "Mon-yu/People/Norn.md",
+    "Mon-yu/People/Holy Knight Sieg.md",
+    "Mon-yu/People/Hel.md",
+    "Mon-yu/Places/Bonheim.md",
     "Mon-yu/Jobs/Advancement",
     "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",
