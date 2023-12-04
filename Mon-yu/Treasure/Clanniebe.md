@@ -5,12 +5,12 @@ aliases:
   - Seven Hidden Treasures
 ---
 # The Seven Hidden Treasures
-1. [[Mjolnir]], the God's Pickaxe.
-2. [[Mistilteinn]], the Holy Tree's Protection.
-3. [[Gjallarhorn]], the Joyous Flute.
-4. [[Laevateinn]], the Transcendent Wand.
-5. [[Brisingamen]], the Pledge of Fire.
-6. [[Sleipnir]], the ???
+1. [[Mjolnir]], The God's Pickaxe.
+2. [[Mistilteinn]], The Holy Tree's Protection.
+3. [[Gjallarhorn]], The Joyous Flute.
+4. [[Laevateinn]], The Transcendent Wand.
+5. [[Brisingamen]], The Pledge of Fire.
+6. [[Sleipnir]], The God's Leap.
 7. ?
 
 #hidden-treasure 

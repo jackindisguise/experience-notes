@@ -7,6 +7,6 @@ Increases growth cap to Level 26.
 >[!info]
 >By Hidden Treasure Sleipnir's power, **???**!
 
-I don't think it had a little blurb. Kinda sus.
+I don't think it had a little blurb. Kinda sus. You can jump now, though.
 
 #hidden-treasure 
