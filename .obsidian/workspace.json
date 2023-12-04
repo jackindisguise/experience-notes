@@ -11,10 +11,11 @@
             "id": "90b2c81e44d8647a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Mon-yu/Jobs/Mage (Mon-yu).md",
-                "staged": false
+                "file": "Mon-yu/_DAILY/2023-12-3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mon-yu/_DAILY/2023-12-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mon-yu/_DAILY/2023-12-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mon-yu/_DAILY/2023-12-3.md"
+              }
             }
           },
           {
@@ -151,18 +156,25 @@
   },
   "active": "90b2c81e44d8647a",
   "lastOpenFiles": [
+    "Mon-yu/_DAILY/2023-12-2.md",
+    "Mon-yu/_DAILY/2023-12-3.md",
     "Mon-yu/Jobs/Ninja (Mon-yu).md",
-    "Mon-yu/Skills/Butterfly Dance.md",
+    "Mon-yu/Skills/Illusion Jutsu.md",
+    "Mon-yu/Skills/Spy.md",
+    "Mon-yu/Skills/Mist Veil Jutsu.md",
+    "Mon-yu/Skills/Sneak Attack.md",
+    "Mon-yu/Skills/Cicada Shell Jutsu.md",
+    "Mon-yu/Skills/Shadow Bind Jutsu.md",
+    "Mon-yu/Skills/Barrage.md",
+    "Mon-yu/Skills/Bee Sting.md",
     "Mon-yu/Jobs/Mage (Mon-yu).md",
+    "Mon-yu/Skills/Butterfly Dance.md",
     "Mon-yu/Jobs/Warrior (Mon-yu).md",
     "Mon-yu/Jobs/Samurai (Mon-yu).md",
     "Mon-yu/Jobs/Knight (Mon-yu).md",
     "Mon-yu/Jobs/Cleric (Mon-yu).md",
     "Mon-yu/Jobs/Fighter (Mon-yu).md",
     "Mon-yu/Jobs/Gunslinger (Mon-yu).md",
-    "Mon-yu/Skills/Mist Veil Jutsu.md",
-    "Mon-yu/_DAILY/2023-12-3.md",
-    "Mon-yu/_DAILY/2023-12-2.md",
     "Mon-yu/_DAILY/2023-12-1.md",
     "Mon-yu/_DAILY/2023-11-29.md",
     "Mon-yu/_DAILY/2023-11-26.md",
@@ -170,13 +182,6 @@
     "Mon-yu/Skills/Cyclone Strike.md",
     "Mon-yu/Skills/Stunning Secrets.md",
     "Mon-yu/Skills/Onslaught.md",
-    "Mon-yu/Skills/Summer-Rain Slash.md",
-    "Mon-yu/Skills/Twister Fist.md",
-    "Mon-yu/Skills/Meet Your Haymaker.md",
-    "Mon-yu/Treasure/Clanniebe.md",
-    "Mon-yu/People/Devil Kings.md",
-    "Mon-yu/Places/Yggdran.md",
-    "Mon-yu/Treasure/Gjallarhorn.md",
     "Mon-yu/Jobs/Advancement",
     "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",
