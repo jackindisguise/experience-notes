@@ -10,7 +10,7 @@ aliases:
 3. [[Gjallarhorn]], the Joyous Flute.
 4. [[Laevateinn]], the Transcendent Wand.
 5. [[Brisingamen]], the Pledge of Fire.
-6. ?
+6. [[Sleipnir]], the ???
 7. ?
 
 #hidden-treasure 

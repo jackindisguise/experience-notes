@@ -1,6 +1,8 @@
 Part of the [[Clanniebe|Hidden Treasure]], [[Clanniebe]]. Also known as The Pledge of Fire.
 
 Held by the [[Devil Kings|Devil King]] [[Norn]].
+
+Increases growth cap to Level 22.
 # Brisingamen's Power
 >[!info]
 >By Hidden Treasure Brisingamen's power, the **heroes abilities were enhanced**!
