@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-12-3.md",
+                "file": "Mon-yu/_DAILY/2023-12-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-12-3.md",
+                "file": "Mon-yu/_DAILY/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-12-3.md",
+                "file": "Mon-yu/_DAILY/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-12-3.md"
+                "file": "Mon-yu/_DAILY/2023-12-04.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +156,12 @@
   },
   "active": "90b2c81e44d8647a",
   "lastOpenFiles": [
+    "Mon-yu/_DAILY/2023-12-03.md",
+    "Mon-yu/_DAILY/2023-12-02.md",
+    "Mon-yu/_DAILY/2023-12-01.md",
+    "Mon-yu/_DAILY/2023-12-04.md",
+    "Ray Gigant/README.md",
     "Mon-yu/Treasure/Sleipnir.md",
-    "Mon-yu/_DAILY/2023-12-3.md",
     "Mon-yu/People/Loki.md",
     "Mon-yu/Places/Detheim.md",
     "Mon-yu/Places/Yggdran.md",
@@ -178,10 +182,6 @@
     "Mon-yu/People/Holy Knight Sieg.md",
     "Mon-yu/People/Jormungandr.md",
     "Mon-yu/Treasure/Brisingamen.md",
-    "Mon-yu/Treasure/Laevateinn.md",
-    "Mon-yu/_DAILY/2023-11-22.md",
-    "Mon-yu/Treasure/Mjolnir.md",
-    "Mon-yu/_DAILY/2023-11-19.md",
     "Mon-yu/Jobs/Advancement",
     "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",
