@@ -4,4 +4,4 @@
 >From them 3 gods were created
 >[[Merlin|Light]] from blood, [[Yggdra|Dragon]] from flesh, Darkness from bone
 
-Ohma, the God of Dark, is a primordial being that is in perpetual conflict with [[Merlin]], the God of Light.
+Ohma, the God of Dark, is in perpetual conflict with [[Merlin]], the God of Light.

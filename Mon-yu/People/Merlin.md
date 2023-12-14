@@ -8,4 +8,4 @@ aliases:
 >From them 3 gods were created
 >Light from blood, [[Yggdra|Dragon]] from flesh, [[Ohma|Darkness]] from bone
 
-Merlin, the God of Light, is a primordial being that is in perpetual conflict with [[Ohma]], the God of Dark.
+Merlin, the God of Light, is in perpetual conflict with [[Ohma]], the God of Dark.
