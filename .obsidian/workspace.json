@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-11-18.md",
+                "file": "Mon-yu/People/Chuck.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-11-18.md",
+                "file": "Mon-yu/People/Chuck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-11-18.md",
+                "file": "Mon-yu/People/Chuck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-11-18.md"
+                "file": "Mon-yu/People/Chuck.md"
               }
             }
           },
@@ -156,18 +156,19 @@
   },
   "active": "90b2c81e44d8647a",
   "lastOpenFiles": [
-    "Mon-yu/_DAILY/2023-12-12.md",
-    "Mon-yu/_DAILY/2023-11-18.md",
+    "Mon-yu/People/Eternia.md",
     "Mon-yu/People/Aldin.md",
+    "Mon-yu/People/Holy Knight Sieg.md",
+    "Mon-yu/People/Devil Kings.md",
+    "Mon-yu/_DAILY/2023-11-18.md",
+    "Mon-yu/_DAILY/2023-12-12.md",
     "Mon-yu/People/Merlin.md",
     "Mon-yu/People/Ohma.md",
     "Mon-yu/People/Yggdra.md",
     "Mon-yu/_DAILY/_QUESTIONS.md",
     "Mon-yu/_DAILY/_OBSERVATIONS.md",
     "Mon-yu/Treasure/Einherjar.md",
-    "Mon-yu/People/Holy Knight Sieg.md",
     "Mon-yu/People/Jormungandr.md",
-    "Mon-yu/People/Eternia.md",
     "Mon-yu/_DAILY/2023-12-10.md",
     "Mon-yu/Groups/Therian.md",
     "Demon Gaze/README.md",
@@ -181,7 +182,6 @@
     "Mon-yu/Places/Yoheim.md",
     "Mon-yu/Places/Tir na Balc.md",
     "Mon-yu/Treasure/Gjallarhorn.md",
-    "Mon-yu/Treasure/Clanniebe.md",
     "Mon-yu/Jobs/Advancement",
     "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",

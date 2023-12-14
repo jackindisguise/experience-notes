@@ -1,6 +1,5 @@
-[[Eternia]], the queen of the Fairies.
-# Quotes
-> The [[Devil Kings|Seven Devil Kings]] each live on their own level and rule the demons there.
-> Of course, the [[Devil Kings|Devil King]] is the strongest of them all.
+[[Eternia]] is the Queen of the Fairies who rules [[Tir na Balc]] from the city of [[Einheim]]. She summons heroes from other worlds in order to defeat the [[Devil Kings|Seven Devil Kings]] and collect the [[Clanniebe|Seven Hidden Treasures]], in order to bring peace to the world.
 
-Eternia has been [[Charmed]] by [[Aldin]] to collect the [[Clanniebe|Seven Hidden Treasures]] and use them to resurrect him.
+She has the ability to grant immortality to chosen heroes using her [[Secret Revival Magic]].
+# The Truth
+Long ago, the True Devil King [[Aldin]] was defeated in the Other World. He fled to [[Tir na Balc]] and possessed Eternia due to her magical power. She then began her quest to revive Aldin by summoning heroes and tricking them into collecting the [[Clanniebe|Seven Hidden Treasures]].
