@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-12-04.md",
+                "file": "Mon-yu/_DAILY/2023-11-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 259.5
   },
   "right": {
     "id": "a4fcf206dc3a1ffb",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-12-04.md",
+                "file": "Mon-yu/_DAILY/2023-11-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-12-04.md",
+                "file": "Mon-yu/_DAILY/2023-11-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mon-yu/_DAILY/2023-12-04.md"
+                "file": "Mon-yu/_DAILY/2023-11-18.md"
               }
             }
           },
@@ -156,32 +156,32 @@
   },
   "active": "90b2c81e44d8647a",
   "lastOpenFiles": [
-    "Mon-yu/_DAILY/2023-12-03.md",
-    "Mon-yu/_DAILY/2023-12-02.md",
-    "Mon-yu/_DAILY/2023-12-01.md",
-    "Mon-yu/_DAILY/2023-12-04.md",
-    "Ray Gigant/README.md",
-    "Mon-yu/Treasure/Sleipnir.md",
-    "Mon-yu/People/Loki.md",
-    "Mon-yu/Places/Detheim.md",
-    "Mon-yu/Places/Yggdran.md",
-    "Mon-yu/Places/Demiheim.md",
-    "Mon-yu/Treasure/Clanniebe.md",
-    "Mon-yu/Places/Magiheim.md",
-    "Mon-yu/Places/Yoheim.md",
-    "Mon-yu/Places/Bonheim.md",
-    "Mon-yu/Places/Beastheim.md",
-    "Mon-yu/People/Hel.md",
-    "Mon-yu/Treasure/Gjallarhorn.md",
-    "Mon-yu/Treasure/Mistilteinn.md",
-    "Mon-yu/People/Fenrir.md",
-    "Mon-yu/People/Devil Kings.md",
-    "Mon-yu/Places/Vanheim.md",
-    "Mon-yu/Places/Tir na Balc.md",
-    "Mon-yu/Jobs/Gunslinger (Mon-yu).md",
+    "Mon-yu/_DAILY/2023-12-12.md",
+    "Mon-yu/_DAILY/2023-11-18.md",
+    "Mon-yu/People/Aldin.md",
+    "Mon-yu/People/Merlin.md",
+    "Mon-yu/People/Ohma.md",
+    "Mon-yu/People/Yggdra.md",
+    "Mon-yu/_DAILY/_QUESTIONS.md",
+    "Mon-yu/_DAILY/_OBSERVATIONS.md",
+    "Mon-yu/Treasure/Einherjar.md",
     "Mon-yu/People/Holy Knight Sieg.md",
     "Mon-yu/People/Jormungandr.md",
-    "Mon-yu/Treasure/Brisingamen.md",
+    "Mon-yu/People/Eternia.md",
+    "Mon-yu/_DAILY/2023-12-10.md",
+    "Mon-yu/Groups/Therian.md",
+    "Demon Gaze/README.md",
+    "Mon-yu/Treasure/Sleipnir.md",
+    "Mon-yu/Places/Alheim.md",
+    "Mon-yu/Places/Yggdran.md",
+    "Mon-yu/Places/Detheim.md",
+    "Mon-yu/_DAILY/2023-11-13.md",
+    "Mon-yu/_DAILY/2023-12-04.md",
+    "Mon-yu/Places/Beastheim.md",
+    "Mon-yu/Places/Yoheim.md",
+    "Mon-yu/Places/Tir na Balc.md",
+    "Mon-yu/Treasure/Gjallarhorn.md",
+    "Mon-yu/Treasure/Clanniebe.md",
     "Mon-yu/Jobs/Advancement",
     "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",

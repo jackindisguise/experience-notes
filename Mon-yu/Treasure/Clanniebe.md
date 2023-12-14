@@ -11,6 +11,8 @@ aliases:
 4. [[Laevateinn]], The Transcendent Wand.
 5. [[Brisingamen]], The Pledge of Fire.
 6. [[Sleipnir]], The God's Leap.
-7. ?
+7. [[Gungnir]], The Great God's Majesty.
+# The Hidden Eighth Treasure
+[[Einherjar]], The Hero's Spirit.
 
 #hidden-treasure 
