@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
+                "file": "Mon-yu/Terminology/Hero Evaluation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
+                "file": "Mon-yu/Terminology/Hero Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md",
+                "file": "Mon-yu/Terminology/Hero Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mon-yu/_DAILY/_OBSERVATIONS.md"
+                "file": "Mon-yu/Terminology/Hero Evaluation.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "90b2c81e44d8647a",
   "lastOpenFiles": [
+    "Mon-yu/Terminology/Clan Skill.md",
+    "Mon-yu/_DAILY/_OBSERVATIONS.md",
     "Mon-yu/Skills/Advancement - Dual Wield.md",
     "Mon-yu/Places/Bonheim.md",
     "Mon-yu/Places/Beastheim.md",
@@ -180,8 +182,6 @@
     "Mon-yu/People/Fenrir.md",
     "Mon-yu/People/Aldin.md",
     "Mon-yu/People/Akabu.md",
-    "Mon-yu/People/Chuck.md",
-    "Mon-yu/People/Devil Kings.md",
     "Mon-yu/Jobs/Advancement",
     "Mon-yu/Skills/index.js",
     "Mon-yu/Skills",
