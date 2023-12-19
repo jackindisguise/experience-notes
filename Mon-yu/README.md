@@ -25,7 +25,38 @@ At some point, Eternia's most trusted follower and strongest Hero, [[Holy Knight
 Heroes appear in Tir na Balc, Eternia tricks them into fighting the Devil Kings and collecting the Hidden Treasures. Sieg appears and tries to stop them, though is defeated multiple times. Eternia tries to come up with a way to stop his immortality.
 # Gameplay
 Most of the gameplay elements build on the improvements leading up to Undernauts, offering almost the exact same character creation system with the same classes and even the same skills and spells.
-# Exploring Yggdran
-Just like the [[Yomi Flowers]] present in Undernauts, the [[Clanniebe|Seven Hidden Treasures]] grant you new methods of exploring Yggdran, progressively unlocking hidden doors, the ability to build bridges, and so on.
+## Exploring Yggdran
+Just like the [[Yomi Flowers]] present in Undernauts, the [[Clanniebe|Seven Hidden Treasures]] grant you access to various progression systems ranging from multi-classing your heroes, to revealing hidden doors in the dungeons.
+## Creating Your Heroes
+Character creation has been significantly simplified from even [[Undernauts - Labyrinth of Yomi/README|Undernauts]], getting ridding of backgrounds/races entirely. The only fundamental distinction between characters are their jobs (equivalent of class). Jobs determine your attributes and your skills.
+## Playstyle
+The game comes with 3 difficulty settings called "playstyles". The playstyles don't change the overall gameplay, but they do limit your access to useful features (maps), and they limit the maximum level of your characters during different sections of the game. If you're struggling on a harder difficulty, you can lower the difficulty.
+### Playstyle A
+- Level cap starts at 7.
+- You start with full access to the minimap.
+- You start with full access to the full map.
+### Playstyle B
+- Level cap starts at 5.
+- You start with full access to the minimap.
+- You start with no access to the full map and must find the map beetle to unlock it.
+### Playstyle C
+- Level cap starts at 3.
+- You start with no access to the minimap and must find the map beetle to unlock it.
+- You start with no access to the full map and must find the map beetle to unlock it.
+## Progression Systems
+### Upgrading Equipment
+Unlike Undernauts, money is not used to upgrade equipment. Instead, while you gain experience from defeating enemies, your equipment is also gaining experience. This means that even though you can't level up your characters beyond a certain point (due to the level caps), you can still strengthen your character through their equipment.
+### Skill Points
+Also unlike Undernauts, you do not gain skill points by leveling up. You gain skill points independently from your level, giving you yet another progression system that bypasses the level cap.
+# Combat
+While in Yggdran, there are no random encounters, but there are field icons that trigger combat when touched. During combat, you will assign each character's actions for each round. Turns are taken in order based on various factors, including the character's speed and which action you chose. For example, [[Samurai (Mon-yu)|Samurai]] have the skill [[Swallow Slice]] which has a higher turn priority. [[Warrior (Mon-yu)|Warrior]] have the skill [[Deadly Blow]] which has a significant turn delay.
+## Clan Skills
+Clan skills are unlocked over the course of the game and provide access to abilities similar to [[Boosts]] from Undernauts.
+* [[Clan Skill|Divine Protection]] provides increased damage mitigation for your team, as well as increased resistance to status effects.
+* [[Clan Skill|Transcendence]] provides mana-free skill usage.
+* [[Clan Skill|Boon]] provides increased turn priority for actions, buffs to hit and evasion rate, and if combat ends while this skill is active, you will gain double the treasure drops.
+Clan skills go on cooldown for one turn after using them.
+## Loot
+All enemies drop loot after being defeated.
 
 #game
